@@ -1,0 +1,708 @@
+,_unit_id,person,race_ethnicity,sexual_orientation,year_of_award,movie,award,birthplace,date_of_birth,Movie Rating,imdbIDs,Movie Length (min),IMDB Rating
+0,670454353,Lewis Milestone,White,Straight,1927,Two Arabian Knights,Best Director,"Chisinau, Moldova",30-Sep-1895,TV-G,tt0018515,92 min,6.7
+1,670454354,Frank Lloyd,White,Straight,1930,The Divine Lady,Best Director,"Glasgow, Scotland",2-Feb-1886,Not Rated,tt0019824,99 min,6.2
+2,670454355,Lewis Milestone,White,Straight,1931,All Quiet on the Western Front,Best Director,"Chisinau, Moldova",30-Sep-1895,Passed,tt0020629,152 min,8.0
+3,670454356,Norman Taurog,White,Straight,1932,Skippy,Best Director,"Chicago, Il",23-Feb-1899,N/A,tt0060025,25 min,6.3
+4,670454357,Frank Borzage,White,Straight,1933,Bad Girl,Best Director,"Salt Lake City, Ut",23-Apr-1894,Passed,tt0021635,90 min,6.5
+5,670454358,Frank Lloyd,White,Straight,1934,Cavalcade,Best Director,"Glasgow, Scotland",2-Feb-1886,Passed,tt0023876,112 min,5.8
+6,670454359,Frank Capra,White,Straight,1935,It Happened One Night,Best Director,"Bisacquino, Sicily, Italy",18-May-1897,Approved,tt0025316,105 min,8.1
+7,670454359,Frank Capra,White,Straight,1935,It Happened One Night,Best Director,"Bisacquino, Sicily, Italy",18-May-1897,Approved,tt0025316,105 min,8.1
+8,670454359,Frank Capra,White,Straight,1935,It Happened One Night,Best Director,"Bisacquino, Sicily, Italy",18-May-1897,Approved,tt0025316,105 min,8.1
+9,670454446,Clark Gable,White,Straight,1935,It Happened One Night,Best Actor,"Cadiz, Oh",1-Feb-1901,Approved,tt0025316,105 min,8.1
+10,670454446,Clark Gable,White,Straight,1935,It Happened One Night,Best Actor,"Cadiz, Oh",1-Feb-1901,Approved,tt0025316,105 min,8.1
+11,670454446,Clark Gable,White,Straight,1935,It Happened One Night,Best Actor,"Cadiz, Oh",1-Feb-1901,Approved,tt0025316,105 min,8.1
+12,670454610,Claudette Colbert,White,Straight,1935,It Happened One Night,Best Actress,"Paris, France",13-Sep-1903,Approved,tt0025316,105 min,8.1
+13,670454610,Claudette Colbert,White,Straight,1935,It Happened One Night,Best Actress,"Paris, France",13-Sep-1903,Approved,tt0025316,105 min,8.1
+14,670454610,Claudette Colbert,White,Straight,1935,It Happened One Night,Best Actress,"Paris, France",13-Sep-1903,Approved,tt0025316,105 min,8.1
+15,670454360,John Ford,White,Bisexual,1936,The Informer,Best Director,"Cape Elizabeth, Me",1-Feb-1894,R,tt1833116,113 min,6.6
+16,670454360,John Ford,White,Bisexual,1936,The Informer,Best Director,"Cape Elizabeth, Me",1-Feb-1894,R,tt1833116,113 min,6.6
+17,670454447,Victor McLaglen,White,Straight,1936,The Informer,Best Actor,"Tunbridge Wells, Kent, England",11-Dec-1883,R,tt1833116,113 min,6.6
+18,670454447,Victor McLaglen,White,Straight,1936,The Informer,Best Actor,"Tunbridge Wells, Kent, England",11-Dec-1883,R,tt1833116,113 min,6.6
+19,670454361,Frank Capra,White,Straight,1937,Mr. Deeds Goes to Town,Best Director,"Bisacquino, Sicily, Italy",18-May-1897,Not Rated,tt0027996,115 min,7.9
+20,670454362,Leo McCarey,White,Straight,1938,The Awful Truth,Best Director,"Los Angeles, Ca",3-Oct-1898,Passed,tt0028597,90 min,7.7
+21,670454363,Frank Capra,White,Straight,1939,You Can't Take It with You,Best Director,"Bisacquino, Sicily, Italy",18-May-1897,Passed,tt0030993,126 min,7.9
+22,670454364,Victor Fleming,White,Straight,1940,Gone with the Wind,Best Director,"Pasadena, Ca",23-Feb-1883,Passed,tt0031381,238 min,8.1
+23,670454364,Victor Fleming,White,Straight,1940,Gone with the Wind,Best Director,"Pasadena, Ca",23-Feb-1883,Passed,tt0031381,238 min,8.1
+24,670454364,Victor Fleming,White,Straight,1940,Gone with the Wind,Best Director,"Pasadena, Ca",23-Feb-1883,Passed,tt0031381,238 min,8.1
+25,670454615,Vivien Leigh,White,Straight,1940,Gone with the Wind,Best Actress,"Darjeeling, India",5-Nov-13,Passed,tt0031381,238 min,8.1
+26,670454615,Vivien Leigh,White,Straight,1940,Gone with the Wind,Best Actress,"Darjeeling, India",5-Nov-13,Passed,tt0031381,238 min,8.1
+27,670454615,Vivien Leigh,White,Straight,1940,Gone with the Wind,Best Actress,"Darjeeling, India",5-Nov-13,Passed,tt0031381,238 min,8.1
+28,670454694,Hattie McDaniel,Black,Matter of Dispute,1940,Gone with the Wind,Best Supporting Actress,"Wichita, Ks",10-Jun-1893,Passed,tt0031381,238 min,8.1
+29,670454694,Hattie McDaniel,Black,Matter of Dispute,1940,Gone with the Wind,Best Supporting Actress,"Wichita, Ks",10-Jun-1893,Passed,tt0031381,238 min,8.1
+30,670454694,Hattie McDaniel,Black,Matter of Dispute,1940,Gone with the Wind,Best Supporting Actress,"Wichita, Ks",10-Jun-1893,Passed,tt0031381,238 min,8.1
+31,670454365,John Ford,White,Bisexual,1941,The Grapes of Wrath,Best Director,"Cape Elizabeth, Me",1-Feb-1894,Passed,tt0032551,129 min,8.0
+32,670454365,John Ford,White,Bisexual,1941,The Grapes of Wrath,Best Director,"Cape Elizabeth, Me",1-Feb-1894,Passed,tt0032551,129 min,8.0
+33,670454695,Jane Darwell,White,Straight,1941,The Grapes of Wrath,Best Supporting Actress,"Palmyra, Mo",15-Oct-1879,Passed,tt0032551,129 min,8.0
+34,670454695,Jane Darwell,White,Straight,1941,The Grapes of Wrath,Best Supporting Actress,"Palmyra, Mo",15-Oct-1879,Passed,tt0032551,129 min,8.0
+35,670454366,John Ford,White,Bisexual,1942,How Green Was My Valley,Best Director,"Cape Elizabeth, Me",1-Feb-1894,Not Rated,tt0033729,118 min,7.7
+36,670454366,John Ford,White,Bisexual,1942,How Green Was My Valley,Best Director,"Cape Elizabeth, Me",1-Feb-1894,Not Rated,tt0033729,118 min,7.7
+37,670454531,Donald Crisp,White,Straight,1942,How Green Was My Valley,Best Supporting Actor,"London, England",27-Jul-1880,Not Rated,tt0033729,118 min,7.7
+38,670454531,Donald Crisp,White,Straight,1942,How Green Was My Valley,Best Supporting Actor,"London, England",27-Jul-1880,Not Rated,tt0033729,118 min,7.7
+39,670454367,William Wyler,White,Straight,1943,Mrs. Miniver,Best Director,"Mulhouse, Haut-Rhin, Alsace, France",1-Jul-1902,Not Rated,tt0035093,134 min,7.6
+40,670454367,William Wyler,White,Straight,1943,Mrs. Miniver,Best Director,"Mulhouse, Haut-Rhin, Alsace, France",1-Jul-1902,Not Rated,tt0035093,134 min,7.6
+41,670454367,William Wyler,White,Straight,1943,Mrs. Miniver,Best Director,"Mulhouse, Haut-Rhin, Alsace, France",1-Jul-1902,Not Rated,tt0035093,134 min,7.6
+42,670454618,Greer Garson,White,Straight,1942,Mrs. Miniver,Best Actress,"London, England",29-Sep-04,Not Rated,tt0035093,134 min,7.6
+43,670454618,Greer Garson,White,Straight,1942,Mrs. Miniver,Best Actress,"London, England",29-Sep-04,Not Rated,tt0035093,134 min,7.6
+44,670454618,Greer Garson,White,Straight,1942,Mrs. Miniver,Best Actress,"London, England",29-Sep-04,Not Rated,tt0035093,134 min,7.6
+45,670454697,Teresa Wright,White,Straight,1943,Mrs. Miniver,Best Supporting Actress,New York City,27-Oct-18,Not Rated,tt0035093,134 min,7.6
+46,670454697,Teresa Wright,White,Straight,1943,Mrs. Miniver,Best Supporting Actress,New York City,27-Oct-18,Not Rated,tt0035093,134 min,7.6
+47,670454697,Teresa Wright,White,Straight,1943,Mrs. Miniver,Best Supporting Actress,New York City,27-Oct-18,Not Rated,tt0035093,134 min,7.6
+48,670454368,Michael Curtiz,White,Straight,1944,Casablanca,Best Director,"Budapest, Hungary",24-Dec-1886,PG,tt0034583,102 min,8.5
+49,670454369,Leo McCarey,White,Straight,1945,Going My Way,Best Director,"Los Angeles, Ca",3-Oct-1898,Passed,tt0036872,126 min,7.0
+50,670454369,Leo McCarey,White,Straight,1945,Going My Way,Best Director,"Los Angeles, Ca",3-Oct-1898,Passed,tt0036872,126 min,7.0
+51,670454369,Leo McCarey,White,Straight,1945,Going My Way,Best Director,"Los Angeles, Ca",3-Oct-1898,Passed,tt0036872,126 min,7.0
+52,670454456,Bing Crosby,White,Straight,1945,Going My Way,Best Actor,"Tacoma, Wa",3-May-1903,Passed,tt0036872,126 min,7.0
+53,670454456,Bing Crosby,White,Straight,1945,Going My Way,Best Actor,"Tacoma, Wa",3-May-1903,Passed,tt0036872,126 min,7.0
+54,670454456,Bing Crosby,White,Straight,1945,Going My Way,Best Actor,"Tacoma, Wa",3-May-1903,Passed,tt0036872,126 min,7.0
+55,670454534,Barry Fitzgerald,White,Na,1945,Going My Way,Best Supporting Actor,"Dublin, Ireland",10-Mar-1888,Passed,tt0036872,126 min,7.0
+56,670454534,Barry Fitzgerald,White,Na,1945,Going My Way,Best Supporting Actor,"Dublin, Ireland",10-Mar-1888,Passed,tt0036872,126 min,7.0
+57,670454534,Barry Fitzgerald,White,Na,1945,Going My Way,Best Supporting Actor,"Dublin, Ireland",10-Mar-1888,Passed,tt0036872,126 min,7.0
+58,670454370,Jerome Robbins,White,Gay,1962,West Side Story,Best Director,New York City,11-Oct-18,Approved,tt0055614,153 min,7.5
+59,670454370,Jerome Robbins,White,Gay,1962,West Side Story,Best Director,New York City,11-Oct-18,Approved,tt0055614,153 min,7.5
+60,670454370,Jerome Robbins,White,Gay,1962,West Side Story,Best Director,New York City,11-Oct-18,Approved,tt0055614,153 min,7.5
+61,670454370,Jerome Robbins,White,Gay,1962,West Side Story,Best Director,New York City,11-Oct-18,Approved,tt0055614,153 min,7.5
+62,670454387,Robert Wise,White,Straight,1961,West Side Story,Best Director,"Winchester, In",10-Sep-14,Approved,tt0055614,153 min,7.5
+63,670454387,Robert Wise,White,Straight,1961,West Side Story,Best Director,"Winchester, In",10-Sep-14,Approved,tt0055614,153 min,7.5
+64,670454387,Robert Wise,White,Straight,1961,West Side Story,Best Director,"Winchester, In",10-Sep-14,Approved,tt0055614,153 min,7.5
+65,670454387,Robert Wise,White,Straight,1961,West Side Story,Best Director,"Winchester, In",10-Sep-14,Approved,tt0055614,153 min,7.5
+66,670454551,George Chakiris,White,Gay,1962,West Side Story,Best Supporting Actor,"Norwood, Oh",16-Sep-34,Approved,tt0055614,153 min,7.5
+67,670454551,George Chakiris,White,Gay,1962,West Side Story,Best Supporting Actor,"Norwood, Oh",16-Sep-34,Approved,tt0055614,153 min,7.5
+68,670454551,George Chakiris,White,Gay,1962,West Side Story,Best Supporting Actor,"Norwood, Oh",16-Sep-34,Approved,tt0055614,153 min,7.5
+69,670454551,George Chakiris,White,Gay,1962,West Side Story,Best Supporting Actor,"Norwood, Oh",16-Sep-34,Approved,tt0055614,153 min,7.5
+70,670454716,Rita Moreno,Hispanic,Straight,1962,West Side Story,Best Supporting Actress,"Humacao, Puerto Rico",11-Dec-31,Approved,tt0055614,153 min,7.5
+71,670454716,Rita Moreno,Hispanic,Straight,1962,West Side Story,Best Supporting Actress,"Humacao, Puerto Rico",11-Dec-31,Approved,tt0055614,153 min,7.5
+72,670454716,Rita Moreno,Hispanic,Straight,1962,West Side Story,Best Supporting Actress,"Humacao, Puerto Rico",11-Dec-31,Approved,tt0055614,153 min,7.5
+73,670454716,Rita Moreno,Hispanic,Straight,1962,West Side Story,Best Supporting Actress,"Humacao, Puerto Rico",11-Dec-31,Approved,tt0055614,153 min,7.5
+74,670454371,Billy Wilder,White,Straight,1946,The Lost Weekend,Best Director,"Sucha, Galicia, Austria",22-Jun-06,Passed,tt0037884,101 min,7.9
+75,670454371,Billy Wilder,White,Straight,1946,The Lost Weekend,Best Director,"Sucha, Galicia, Austria",22-Jun-06,Passed,tt0037884,101 min,7.9
+76,670454457,Ray Milland,White,Straight,1946,The Lost Weekend,Best Actor,"Neath, Wales",3-Jan-07,Passed,tt0037884,101 min,7.9
+77,670454457,Ray Milland,White,Straight,1946,The Lost Weekend,Best Actor,"Neath, Wales",3-Jan-07,Passed,tt0037884,101 min,7.9
+78,670454372,William Wyler,White,Straight,1947,The Best Years of Our Lives,Best Director,"Mulhouse, Haut-Rhin, Alsace, France",1-Jul-1902,Approved,tt0036868,170 min,8.0
+79,670454372,William Wyler,White,Straight,1947,The Best Years of Our Lives,Best Director,"Mulhouse, Haut-Rhin, Alsace, France",1-Jul-1902,Approved,tt0036868,170 min,8.0
+80,670454372,William Wyler,White,Straight,1947,The Best Years of Our Lives,Best Director,"Mulhouse, Haut-Rhin, Alsace, France",1-Jul-1902,Approved,tt0036868,170 min,8.0
+81,670454458,Fredric March,White,Straight,1947,The Best Years of Our Lives,Best Actor,"Racine, Wi",31-Aug-1897,Approved,tt0036868,170 min,8.0
+82,670454458,Fredric March,White,Straight,1947,The Best Years of Our Lives,Best Actor,"Racine, Wi",31-Aug-1897,Approved,tt0036868,170 min,8.0
+83,670454458,Fredric March,White,Straight,1947,The Best Years of Our Lives,Best Actor,"Racine, Wi",31-Aug-1897,Approved,tt0036868,170 min,8.0
+84,670454536,Harold Russell,White,Straight,1947,The Best Years of Our Lives,Best Supporting Actor,"North Sydney, Nova Scotia, Canada",14-Jan-14,Approved,tt0036868,170 min,8.0
+85,670454536,Harold Russell,White,Straight,1947,The Best Years of Our Lives,Best Supporting Actor,"North Sydney, Nova Scotia, Canada",14-Jan-14,Approved,tt0036868,170 min,8.0
+86,670454536,Harold Russell,White,Straight,1947,The Best Years of Our Lives,Best Supporting Actor,"North Sydney, Nova Scotia, Canada",14-Jan-14,Approved,tt0036868,170 min,8.0
+87,670454373,Elia Kazan,White,Straight,1948,Gentleman's Agreement,Best Director,"Istanbul, Turkey",7-Sep-09,Not Rated,tt0039416,118 min,7.2
+88,670454373,Elia Kazan,White,Straight,1948,Gentleman's Agreement,Best Director,"Istanbul, Turkey",7-Sep-09,Not Rated,tt0039416,118 min,7.2
+89,670454702,Celeste Holm,White,Straight,1948,Gentleman's Agreement,Best Supporting Actress,New York City,29-Apr-17,Not Rated,tt0039416,118 min,7.2
+90,670454702,Celeste Holm,White,Straight,1948,Gentleman's Agreement,Best Supporting Actress,New York City,29-Apr-17,Not Rated,tt0039416,118 min,7.2
+91,670454374,John Huston,White,Straight,1949,The Treasure of the Sierra Madre,Best Director,"Nevada, Mo",5-Aug-06,Passed,tt0040897,126 min,8.2
+92,670454374,John Huston,White,Straight,1949,The Treasure of the Sierra Madre,Best Director,"Nevada, Mo",5-Aug-06,Passed,tt0040897,126 min,8.2
+93,670454374,John Huston,White,Straight,1949,The Treasure of the Sierra Madre,Best Director,"Nevada, Mo",5-Aug-06,Passed,tt0040897,126 min,8.2
+94,670454538,Walter Huston,White,Straight,1949,The Treasure of the Sierra Madre,Best Supporting Actor,"Toronto, Ontario, Canada",6-Apr-1884,Passed,tt0040897,126 min,8.2
+95,670454538,Walter Huston,White,Straight,1949,The Treasure of the Sierra Madre,Best Supporting Actor,"Toronto, Ontario, Canada",6-Apr-1884,Passed,tt0040897,126 min,8.2
+96,670454538,Walter Huston,White,Straight,1949,The Treasure of the Sierra Madre,Best Supporting Actor,"Toronto, Ontario, Canada",6-Apr-1884,Passed,tt0040897,126 min,8.2
+97,670972898,John Huston,White,Straight,1949,The Treasure of the Sierra Madre,Best Director,"Nevada, Mo",5-Aug-06,Passed,tt0040897,126 min,8.2
+98,670972898,John Huston,White,Straight,1949,The Treasure of the Sierra Madre,Best Director,"Nevada, Mo",5-Aug-06,Passed,tt0040897,126 min,8.2
+99,670972898,John Huston,White,Straight,1949,The Treasure of the Sierra Madre,Best Director,"Nevada, Mo",5-Aug-06,Passed,tt0040897,126 min,8.2
+100,670454375,Joseph L. Mankiewicz,White,Straight,1950,A Letter to Three Wives,Best Director,"Wilkes-Barre, Pa",11-Feb-09,Not Rated,tt0041587,103 min,7.7
+101,670454376,Joseph L. Mankiewicz,White,Straight,1951,All About Eve,Best Director,"Wilkes-Barre, Pa",11-Feb-09,Passed,tt0042192,138 min,8.2
+102,670454376,Joseph L. Mankiewicz,White,Straight,1951,All About Eve,Best Director,"Wilkes-Barre, Pa",11-Feb-09,Passed,tt0042192,138 min,8.2
+103,670454540,George Sanders,White,Straight,1951,All About Eve,Best Supporting Actor,"St. Petersburg, Russia",3-Jul-06,Passed,tt0042192,138 min,8.2
+104,670454540,George Sanders,White,Straight,1951,All About Eve,Best Supporting Actor,"St. Petersburg, Russia",3-Jul-06,Passed,tt0042192,138 min,8.2
+105,670454377,George Stevens,White,Straight,1952,A Place in the Sun,Best Director,"Oakland, Ca",18-Dec-04,Passed,tt0043924,122 min,7.8
+106,670454378,John Ford,White,Bisexual,1953,The Quiet Man,Best Director,"Cape Elizabeth, Me",1-Feb-1894,Passed,tt0045061,129 min,7.7
+107,670454379,Fred Zinnemann,White,Straight,1954,From Here to Eternity,Best Director,"Vienna, Austria",29-Apr-07,Passed,tt0045793,118 min,7.6
+108,670454379,Fred Zinnemann,White,Straight,1954,From Here to Eternity,Best Director,"Vienna, Austria",29-Apr-07,Passed,tt0045793,118 min,7.6
+109,670454379,Fred Zinnemann,White,Straight,1954,From Here to Eternity,Best Director,"Vienna, Austria",29-Apr-07,Passed,tt0045793,118 min,7.6
+110,670454543,Frank Sinatra,White,Straight,1954,From Here to Eternity,Best Supporting Actor,"Hoboken, Nj",12-Dec-15,Passed,tt0045793,118 min,7.6
+111,670454543,Frank Sinatra,White,Straight,1954,From Here to Eternity,Best Supporting Actor,"Hoboken, Nj",12-Dec-15,Passed,tt0045793,118 min,7.6
+112,670454543,Frank Sinatra,White,Straight,1954,From Here to Eternity,Best Supporting Actor,"Hoboken, Nj",12-Dec-15,Passed,tt0045793,118 min,7.6
+113,670454708,Donna Reed,White,Straight,1954,From Here to Eternity,Best Supporting Actress,"Denison, Ia",27-Jan-21,Passed,tt0045793,118 min,7.6
+114,670454708,Donna Reed,White,Straight,1954,From Here to Eternity,Best Supporting Actress,"Denison, Ia",27-Jan-21,Passed,tt0045793,118 min,7.6
+115,670454708,Donna Reed,White,Straight,1954,From Here to Eternity,Best Supporting Actress,"Denison, Ia",27-Jan-21,Passed,tt0045793,118 min,7.6
+116,670454380,Elia Kazan,White,Straight,1955,On the Waterfront,Best Director,"Istanbul, Turkey",7-Sep-09,Approved,tt0047296,108 min,8.1
+117,670454380,Elia Kazan,White,Straight,1955,On the Waterfront,Best Director,"Istanbul, Turkey",7-Sep-09,Approved,tt0047296,108 min,8.1
+118,670454380,Elia Kazan,White,Straight,1955,On the Waterfront,Best Director,"Istanbul, Turkey",7-Sep-09,Approved,tt0047296,108 min,8.1
+119,670454466,Marlon Brando,White,Bisexual,1955,On the Waterfront,Best Actor,"Omaha, Ne",3-Apr-24,Approved,tt0047296,108 min,8.1
+120,670454466,Marlon Brando,White,Bisexual,1955,On the Waterfront,Best Actor,"Omaha, Ne",3-Apr-24,Approved,tt0047296,108 min,8.1
+121,670454466,Marlon Brando,White,Bisexual,1955,On the Waterfront,Best Actor,"Omaha, Ne",3-Apr-24,Approved,tt0047296,108 min,8.1
+122,670454709,Eva Marie Saint,White,Straight,1955,On the Waterfront,Best Supporting Actress,"Newark, Nj",4-Jul-24,Approved,tt0047296,108 min,8.1
+123,670454709,Eva Marie Saint,White,Straight,1955,On the Waterfront,Best Supporting Actress,"Newark, Nj",4-Jul-24,Approved,tt0047296,108 min,8.1
+124,670454709,Eva Marie Saint,White,Straight,1955,On the Waterfront,Best Supporting Actress,"Newark, Nj",4-Jul-24,Approved,tt0047296,108 min,8.1
+125,670454381,Delbert Mann,White,Straight,1956,Marty,Best Director,"Lawrence, Ks",30-Jan-20,Not Rated,tt0048356,90 min,7.7
+126,670454381,Delbert Mann,White,Straight,1956,Marty,Best Director,"Lawrence, Ks",30-Jan-20,Not Rated,tt0048356,90 min,7.7
+127,670454467,Ernest Borgnine,White,Straight,1956,Marty,Best Actor,"Hamden, Ct",24-Jan-17,Not Rated,tt0048356,90 min,7.7
+128,670454467,Ernest Borgnine,White,Straight,1956,Marty,Best Actor,"Hamden, Ct",24-Jan-17,Not Rated,tt0048356,90 min,7.7
+129,670454382,George Stevens,White,Straight,1957,Giant,Best Director,"Oakland, Ca",18-Dec-04,G,tt0049261,201 min,7.6
+130,670454383,David Lean,White,Straight,1958,The Bridge on the River Kwai,Best Director,"Croydon, Surrey, England",25-Mar-08,PG,tt0050212,161 min,8.1
+131,670454383,David Lean,White,Straight,1958,The Bridge on the River Kwai,Best Director,"Croydon, Surrey, England",25-Mar-08,PG,tt0050212,161 min,8.1
+132,670454469,Alec Guinness,White,Bisexual,1958,The Bridge on the River Kwai,Best Actor,"London, England",2-Apr-14,PG,tt0050212,161 min,8.1
+133,670454469,Alec Guinness,White,Bisexual,1958,The Bridge on the River Kwai,Best Actor,"London, England",2-Apr-14,PG,tt0050212,161 min,8.1
+134,670454384,Vincente Minnelli,White,Bisexual,1959,Gigi,Best Director,"Chicago, Il",28-Feb-1903,G,tt0051658,115 min,6.7
+135,670454385,William Wyler,White,Straight,1960,Ben-Hur,Best Director,"Mulhouse, Haut-Rhin, Alsace, France",1-Jul-1902,G,tt0052618,212 min,8.1
+136,670454385,William Wyler,White,Straight,1960,Ben-Hur,Best Director,"Mulhouse, Haut-Rhin, Alsace, France",1-Jul-1902,G,tt0052618,212 min,8.1
+137,670454549,Hugh Griffith,White,Na,1960,Ben-Hur,Best Supporting Actor,"Marian Glas, Anglesey, Wales",30-May-12,G,tt0052618,212 min,8.1
+138,670454549,Hugh Griffith,White,Na,1960,Ben-Hur,Best Supporting Actor,"Marian Glas, Anglesey, Wales",30-May-12,G,tt0052618,212 min,8.1
+139,670454386,Billy Wilder,White,Straight,1961,The Apartment,Best Director,"Sucha, Galicia, Austria",22-Jun-06,Approved,tt0053604,125 min,8.3
+140,670454386,Billy Wilder,White,Straight,1961,The Apartment,Best Director,"Sucha, Galicia, Austria",22-Jun-06,Approved,tt0053604,125 min,8.3
+141,670927629,Billy Wilder,White,Straight,1961,The Apartment,Best Director,"Sucha, Galicia, Austria",22-Jun-06,Approved,tt0053604,125 min,8.3
+142,670927629,Billy Wilder,White,Straight,1961,The Apartment,Best Director,"Sucha, Galicia, Austria",22-Jun-06,Approved,tt0053604,125 min,8.3
+143,670454388,David Lean,White,Straight,1963,Lawrence of Arabia,Best Director,"Croydon, Surrey, England",25-Mar-08,Approved,tt0056172,228 min,8.3
+144,670454389,Tony Richardson,White,Bisexual,1964,Tom Jones,Best Director,"Shipley, Yorkshire, England",5-Jun-28,Not Rated,tt0057590,129 min,6.5
+145,670454390,George Cukor,White,Gay,1965,My Fair Lady,Best Director,New York City,7-Jul-1899,G,tt0058385,170 min,7.8
+146,670454390,George Cukor,White,Gay,1965,My Fair Lady,Best Director,New York City,7-Jul-1899,G,tt0058385,170 min,7.8
+147,670454476,Rex Harrison,White,Straight,1965,My Fair Lady,Best Actor,"Huyton, Lancashire, England",5-Mar-08,G,tt0058385,170 min,7.8
+148,670454476,Rex Harrison,White,Straight,1965,My Fair Lady,Best Actor,"Huyton, Lancashire, England",5-Mar-08,G,tt0058385,170 min,7.8
+149,670454391,Robert Wise,White,Straight,1966,The Sound of Music,Best Director,"Winchester, In",10-Sep-14,G,tt0059742,172 min,8.0
+150,670454392,Fred Zinnemann,White,Straight,1967,A Man for All Seasons,Best Director,"Vienna, Austria",29-Apr-07,G,tt0060665,120 min,7.7
+151,670454393,Mike Nichols,White,Straight,1968,The Graduate,Best Director,"Berlin, Germany",6-Nov-31,PG,tt0061722,106 min,8.0
+152,670454394,Joel Coen,White,Straight,2008,No Country for Old Men,Best Director,"St. Louis Park, Mn",29-Nov-54,R,tt0477348,122 min,8.1
+153,670454394,Joel Coen,White,Straight,2008,No Country for Old Men,Best Director,"St. Louis Park, Mn",29-Nov-54,R,tt0477348,122 min,8.1
+154,670454394,Joel Coen,White,Straight,2008,No Country for Old Men,Best Director,"St. Louis Park, Mn",29-Nov-54,R,tt0477348,122 min,8.1
+155,670454434,Ethan Coen,White,Straight,2008,No Country for Old Men,Best Director,"St. Louis Park, Mn",21-Sep-57,R,tt0477348,122 min,8.1
+156,670454434,Ethan Coen,White,Straight,2008,No Country for Old Men,Best Director,"St. Louis Park, Mn",21-Sep-57,R,tt0477348,122 min,8.1
+157,670454434,Ethan Coen,White,Straight,2008,No Country for Old Men,Best Director,"St. Louis Park, Mn",21-Sep-57,R,tt0477348,122 min,8.1
+158,670454597,Javier Bardem,Hispanic,Straight,2008,No Country for Old Men,Best Supporting Actor,"Las Palmas De Gran Canaria, Canary Islands",1-Mar-69,R,tt0477348,122 min,8.1
+159,670454597,Javier Bardem,Hispanic,Straight,2008,No Country for Old Men,Best Supporting Actor,"Las Palmas De Gran Canaria, Canary Islands",1-Mar-69,R,tt0477348,122 min,8.1
+160,670454597,Javier Bardem,Hispanic,Straight,2008,No Country for Old Men,Best Supporting Actor,"Las Palmas De Gran Canaria, Canary Islands",1-Mar-69,R,tt0477348,122 min,8.1
+161,670454395,Carol Reed,White,Straight,1969,Oliver!,Best Director,"London, England",30-Dec-06,G,tt0063385,153 min,7.4
+162,670454396,John Schlesinger,White,Gay,1969,Midnight Cowboy,Best Director,"London, England",16-Feb-26,R,tt0064665,113 min,7.8
+163,670454397,Franklin J. Schaffner,White,Straight,1970,Patton,Best Director,"Tokyo, Japan",30-May-20,GP,tt0066206,172 min,7.9
+164,670454397,Franklin J. Schaffner,White,Straight,1970,Patton,Best Director,"Tokyo, Japan",30-May-20,GP,tt0066206,172 min,7.9
+165,670454482,George C. Scott,White,Straight,1971,Patton,Best Actor,"Wise, Va",18-Oct-27,GP,tt0066206,172 min,7.9
+166,670454482,George C. Scott,White,Straight,1971,Patton,Best Actor,"Wise, Va",18-Oct-27,GP,tt0066206,172 min,7.9
+167,670454398,William Friedkin,White,Straight,1972,The French Connection,Best Director,"Chicago, Il",29-Aug-35,R,tt0067116,104 min,7.7
+168,670454398,William Friedkin,White,Straight,1972,The French Connection,Best Director,"Chicago, Il",29-Aug-35,R,tt0067116,104 min,7.7
+169,670454483,Gene Hackman,White,Straight,1972,The French Connection,Best Actor,"San Bernardino, Ca",30-Jan-30,R,tt0067116,104 min,7.7
+170,670454483,Gene Hackman,White,Straight,1972,The French Connection,Best Actor,"San Bernardino, Ca",30-Jan-30,R,tt0067116,104 min,7.7
+171,670454399,Bob Fosse,White,Straight,1973,Cabaret,Best Director,"Chicago, Il",23-Jun-27,PG,tt0068327,124 min,7.8
+172,670454399,Bob Fosse,White,Straight,1973,Cabaret,Best Director,"Chicago, Il",23-Jun-27,PG,tt0068327,124 min,7.8
+173,670454399,Bob Fosse,White,Straight,1973,Cabaret,Best Director,"Chicago, Il",23-Jun-27,PG,tt0068327,124 min,7.8
+174,670454562,Joel Grey,White,Gay,1973,Cabaret,Best Supporting Actor,"Cleveland, Oh",11-Apr-32,PG,tt0068327,124 min,7.8
+175,670454562,Joel Grey,White,Gay,1973,Cabaret,Best Supporting Actor,"Cleveland, Oh",11-Apr-32,PG,tt0068327,124 min,7.8
+176,670454562,Joel Grey,White,Gay,1973,Cabaret,Best Supporting Actor,"Cleveland, Oh",11-Apr-32,PG,tt0068327,124 min,7.8
+177,670454649,Liza Minnelli,White,Na,1973,Cabaret,Best Actress,"Los Angeles, Ca",12-Mar-46,PG,tt0068327,124 min,7.8
+178,670454649,Liza Minnelli,White,Na,1973,Cabaret,Best Actress,"Los Angeles, Ca",12-Mar-46,PG,tt0068327,124 min,7.8
+179,670454649,Liza Minnelli,White,Na,1973,Cabaret,Best Actress,"Los Angeles, Ca",12-Mar-46,PG,tt0068327,124 min,7.8
+180,670454400,George Roy Hill,White,Straight,1973,The Sting,Best Director,"Minneapolis, Mn",20-Dec-21,PG,tt0070735,129 min,8.3
+181,670454401,Francis Ford Coppola,White,Straight,1975,The Godfather Part II,Best Director,"Detroit, Mi",7-Apr-39,R,tt0071562,202 min,9.0
+182,670454401,Francis Ford Coppola,White,Straight,1975,The Godfather Part II,Best Director,"Detroit, Mi",7-Apr-39,R,tt0071562,202 min,9.0
+183,670454564,Robert De Niro,White,Straight,1975,The Godfather Part II,Best Supporting Actor,New York City,17-Aug-43,R,tt0071562,202 min,9.0
+184,670454564,Robert De Niro,White,Straight,1975,The Godfather Part II,Best Supporting Actor,New York City,17-Aug-43,R,tt0071562,202 min,9.0
+185,670454402,Milos Forman,White,Straight,1976,One Flew over the Cuckoo's Nest,Best Director,"CÌÁslav, Czechoslovakia",18-Feb-32,R,tt0073486,133 min,8.7
+186,670454403,John G. Avildsen,White,Straight,1976,Rocky,Best Director,"Oak Park, Il",21-Dec-35,PG,tt0075148,120 min,8.1
+187,670454404,Woody Allen,White,Straight,1978,Annie Hall,Best Director,"Brooklyn, Ny",1-Dec-35,PG,tt0075686,93 min,8.0
+188,670454404,Woody Allen,White,Straight,1978,Annie Hall,Best Director,"Brooklyn, Ny",1-Dec-35,PG,tt0075686,93 min,8.0
+189,670454654,Diane Keaton,White,Straight,1978,Annie Hall,Best Actress,"Los Angeles, Ca",5-Jan-46,PG,tt0075686,93 min,8.0
+190,670454654,Diane Keaton,White,Straight,1978,Annie Hall,Best Actress,"Los Angeles, Ca",5-Jan-46,PG,tt0075686,93 min,8.0
+191,670454405,Michael Cimino,White,Straight,1979,The Deer Hunter,Best Director,New York City,3-Feb-39,R,tt0077416,183 min,8.1
+192,670454405,Michael Cimino,White,Straight,1979,The Deer Hunter,Best Director,New York City,3-Feb-39,R,tt0077416,183 min,8.1
+193,670454405,Michael Cimino,White,Straight,1979,The Deer Hunter,Best Director,New York City,3-Feb-39,R,tt0077416,183 min,8.1
+194,670454568,Christopher Walken,White,Straight,1979,The Deer Hunter,Best Supporting Actor,"Astoria, Ny",31-Mar-43,R,tt0077416,183 min,8.1
+195,670454568,Christopher Walken,White,Straight,1979,The Deer Hunter,Best Supporting Actor,"Astoria, Ny",31-Mar-43,R,tt0077416,183 min,8.1
+196,670454568,Christopher Walken,White,Straight,1979,The Deer Hunter,Best Supporting Actor,"Astoria, Ny",31-Mar-43,R,tt0077416,183 min,8.1
+197,670944168,Michael Cimino,White,Straight,1979,The Deer Hunter,Best Director,New York City,3-Feb-39,R,tt0077416,183 min,8.1
+198,670944168,Michael Cimino,White,Straight,1979,The Deer Hunter,Best Director,New York City,3-Feb-39,R,tt0077416,183 min,8.1
+199,670944168,Michael Cimino,White,Straight,1979,The Deer Hunter,Best Director,New York City,3-Feb-39,R,tt0077416,183 min,8.1
+200,670454406,Robert Benton,White,Straight,1980,Kramer vs. Kramer,Best Director,"Waxahachie, Tx",29-Sep-32,PG,tt0079417,105 min,7.8
+201,670454406,Robert Benton,White,Straight,1980,Kramer vs. Kramer,Best Director,"Waxahachie, Tx",29-Sep-32,PG,tt0079417,105 min,7.8
+202,670454406,Robert Benton,White,Straight,1980,Kramer vs. Kramer,Best Director,"Waxahachie, Tx",29-Sep-32,PG,tt0079417,105 min,7.8
+203,670454491,Dustin Hoffman,White,Straight,1980,Kramer vs. Kramer,Best Actor,"Los Angeles, Ca",8-Aug-37,PG,tt0079417,105 min,7.8
+204,670454491,Dustin Hoffman,White,Straight,1980,Kramer vs. Kramer,Best Actor,"Los Angeles, Ca",8-Aug-37,PG,tt0079417,105 min,7.8
+205,670454491,Dustin Hoffman,White,Straight,1980,Kramer vs. Kramer,Best Actor,"Los Angeles, Ca",8-Aug-37,PG,tt0079417,105 min,7.8
+206,670454734,Meryl Streep,White,Straight,1980,Kramer vs. Kramer,Best Supporting Actress,"Summit, Nj",22-Jun-49,PG,tt0079417,105 min,7.8
+207,670454734,Meryl Streep,White,Straight,1980,Kramer vs. Kramer,Best Supporting Actress,"Summit, Nj",22-Jun-49,PG,tt0079417,105 min,7.8
+208,670454734,Meryl Streep,White,Straight,1980,Kramer vs. Kramer,Best Supporting Actress,"Summit, Nj",22-Jun-49,PG,tt0079417,105 min,7.8
+209,670454407,Robert Redford,White,Straight,1980,Ordinary People,Best Director,"Santa Monica, Ca",18-Aug-1936 [1],R,tt0081283,124 min,7.7
+210,670454408,Warren Beatty,White,Straight,1981,Reds,Best Director,"Richmond, Va",30-Mar-37,PG,tt0082979,195 min,7.3
+211,670454408,Warren Beatty,White,Straight,1981,Reds,Best Director,"Richmond, Va",30-Mar-37,PG,tt0082979,195 min,7.3
+212,670454736,Maureen Stapleton,White,Straight,1982,Reds,Best Supporting Actress,"Troy, Ny",21-Jun-25,PG,tt0082979,195 min,7.3
+213,670454736,Maureen Stapleton,White,Straight,1982,Reds,Best Supporting Actress,"Troy, Ny",21-Jun-25,PG,tt0082979,195 min,7.3
+214,670454409,Richard Attenborough,White,Straight,1982,Gandhi,Best Director,"Cambridge, England",29-Aug-23,PG,tt0083987,191 min,8.0
+215,670454409,Richard Attenborough,White,Straight,1982,Gandhi,Best Director,"Cambridge, England",29-Aug-23,PG,tt0083987,191 min,8.0
+216,670454494,Ben Kingsley,Multiracial,Straight,1983,Gandhi,Best Actor,"Scarborough, Yorkshire, England",31-Dec-43,PG,tt0083987,191 min,8.0
+217,670454494,Ben Kingsley,Multiracial,Straight,1983,Gandhi,Best Actor,"Scarborough, Yorkshire, England",31-Dec-43,PG,tt0083987,191 min,8.0
+218,670454410,James L. Brooks,White,Straight,1983,Terms of Endearment,Best Director,"North Bergen, Nj",9-May-40,PG,tt0086425,132 min,7.4
+219,670454410,James L. Brooks,White,Straight,1983,Terms of Endearment,Best Director,"North Bergen, Nj",9-May-40,PG,tt0086425,132 min,7.4
+220,670454410,James L. Brooks,White,Straight,1983,Terms of Endearment,Best Director,"North Bergen, Nj",9-May-40,PG,tt0086425,132 min,7.4
+221,670454573,Jack Nicholson,White,Straight,1984,Terms of Endearment,Best Supporting Actor,New York City,22-Apr-37,PG,tt0086425,132 min,7.4
+222,670454573,Jack Nicholson,White,Straight,1984,Terms of Endearment,Best Supporting Actor,New York City,22-Apr-37,PG,tt0086425,132 min,7.4
+223,670454573,Jack Nicholson,White,Straight,1984,Terms of Endearment,Best Supporting Actor,New York City,22-Apr-37,PG,tt0086425,132 min,7.4
+224,670454660,Shirley MacLaine,White,Straight,1984,Terms of Endearment,Best Actress,"Richmond, Va",24-Apr-34,PG,tt0086425,132 min,7.4
+225,670454660,Shirley MacLaine,White,Straight,1984,Terms of Endearment,Best Actress,"Richmond, Va",24-Apr-34,PG,tt0086425,132 min,7.4
+226,670454660,Shirley MacLaine,White,Straight,1984,Terms of Endearment,Best Actress,"Richmond, Va",24-Apr-34,PG,tt0086425,132 min,7.4
+227,670454411,Milos Forman,White,Straight,1985,Amadeus,Best Director,"CÌÁslav, Czechoslovakia",18-Feb-32,R,tt0086879,160 min,8.3
+228,670454411,Milos Forman,White,Straight,1985,Amadeus,Best Director,"CÌÁslav, Czechoslovakia",18-Feb-32,R,tt0086879,160 min,8.3
+229,670454496,F. Murray Abraham,Middle Eastern,Straight,1985,Amadeus,Best Actor,"Pittsburgh, Pa",24-Oct-39,R,tt0086879,160 min,8.3
+230,670454496,F. Murray Abraham,Middle Eastern,Straight,1985,Amadeus,Best Actor,"Pittsburgh, Pa",24-Oct-39,R,tt0086879,160 min,8.3
+231,670454412,Sydney Pollack,White,Straight,1986,Out of Africa,Best Director,"Lafayette, In",1-Jul-34,PG,tt0089755,161 min,7.2
+232,670454413,Oliver Stone,White,Straight,1990,Platoon,Best Director,New York City,15-Sep-46,R,tt0091763,120 min,8.1
+233,670454414,Bernardo Bertolucci,White,Straight,1988,The Last Emperor,Best Director,"Parma, Emilia-Romagna, Italy",16-Mar-41,PG-13,tt0093389,163 min,7.7
+234,670454415,Barry Levinson,White,Straight,1989,Rain Man,Best Director,"Baltimore, Md",6-Apr-42,R,tt0095953,133 min,8.0
+235,670454416,Oliver Stone,White,Straight,1990,Born on the Fourth of July,Best Director,New York City,15-Sep-46,R,tt0096969,145 min,7.2
+236,670454417,Kevin Costner,White,Straight,1991,Dances with Wolves,Best Director,"Lynwood, Ca",18-Jan-55,PG-13,tt0099348,181 min,8.0
+237,670454418,Jonathan Demme,White,Straight,1992,The Silence of the Lambs,Best Director,"Baldwin, Ny",22-Feb-44,R,tt0102926,118 min,8.6
+238,670454418,Jonathan Demme,White,Straight,1992,The Silence of the Lambs,Best Director,"Baldwin, Ny",22-Feb-44,R,tt0102926,118 min,8.6
+239,670454668,Jodie Foster,White,Lesbian,1992,The Silence of the Lambs,Best Actress,"Los Angeles, Ca",19-Nov-62,R,tt0102926,118 min,8.6
+240,670454668,Jodie Foster,White,Lesbian,1992,The Silence of the Lambs,Best Actress,"Los Angeles, Ca",19-Nov-62,R,tt0102926,118 min,8.6
+241,670454419,Clint Eastwood,White,Straight,1993,Unforgiven,Best Director,"San Francisco, Ca",31-May-30,R,tt0105695,130 min,8.2
+242,670454419,Clint Eastwood,White,Straight,1993,Unforgiven,Best Director,"San Francisco, Ca",31-May-30,R,tt0105695,130 min,8.2
+243,670454582,Gene Hackman,White,Straight,1993,Unforgiven,Best Supporting Actor,"San Bernardino, Ca",30-Jan-30,R,tt0105695,130 min,8.2
+244,670454582,Gene Hackman,White,Straight,1993,Unforgiven,Best Supporting Actor,"San Bernardino, Ca",30-Jan-30,R,tt0105695,130 min,8.2
+245,670454420,Steven Spielberg,White,Straight,1994,Schindler's List,Best Director,"Cincinnati, Oh",18-Dec-46,R,tt0108052,195 min,8.9
+246,670454421,Robert Zemeckis,White,Straight,1995,Forrest Gump,Best Director,"Chicago, Il",14-May-52,PG-13,tt0109830,142 min,8.8
+247,670454421,Robert Zemeckis,White,Straight,1995,Forrest Gump,Best Director,"Chicago, Il",14-May-52,PG-13,tt0109830,142 min,8.8
+248,670454506,Tom Hanks,White,Straight,1995,Forrest Gump,Best Actor,"Concord, Ca",9-Jul-56,PG-13,tt0109830,142 min,8.8
+249,670454506,Tom Hanks,White,Straight,1995,Forrest Gump,Best Actor,"Concord, Ca",9-Jul-56,PG-13,tt0109830,142 min,8.8
+250,670454422,Mel Gibson,White,Straight,1996,Braveheart,Best Director,"Peekskill, Ny",3-Jan-56,R,tt0112573,178 min,8.3
+251,670454423,Anthony Minghella,White,Straight,1997,The English Patient,Best Director,"Ryde, Isle of Wight, England",6-Jan-54,R,tt0116209,162 min,7.4
+252,670454423,Anthony Minghella,White,Straight,1997,The English Patient,Best Director,"Ryde, Isle of Wight, England",6-Jan-54,R,tt0116209,162 min,7.4
+253,670454751,Juliette Binoche,White,Straight,1997,The English Patient,Best Supporting Actress,"Paris, France",9-Mar-64,R,tt0116209,162 min,7.4
+254,670454751,Juliette Binoche,White,Straight,1997,The English Patient,Best Supporting Actress,"Paris, France",9-Mar-64,R,tt0116209,162 min,7.4
+255,670454424,James Cameron,White,Straight,1998,Titanic,Best Director,"Kapuskasing, Ontario, Canada",16-Aug-54,PG-13,tt0120338,194 min,7.8
+256,670454425,Steven Spielberg,White,Straight,1999,Saving Private Ryan,Best Director,"Cincinnati, Oh",18-Dec-46,R,tt0120815,169 min,8.6
+257,670454426,Sam Mendes,White,Straight,2000,American Beauty,Best Director,"Reading, Berkshire, England",1-Aug-65,R,tt0169547,122 min,8.3
+258,670454426,Sam Mendes,White,Straight,2000,American Beauty,Best Director,"Reading, Berkshire, England",1-Aug-65,R,tt0169547,122 min,8.3
+259,670454511,Kevin Spacey,White,Matter of Dispute,2000,American Beauty,Best Actor,"South Orange, Nj",26-Jul-59,R,tt0169547,122 min,8.3
+260,670454511,Kevin Spacey,White,Matter of Dispute,2000,American Beauty,Best Actor,"South Orange, Nj",26-Jul-59,R,tt0169547,122 min,8.3
+261,670454427,Steven Soderbergh,White,Straight,2001,Traffic,Best Director,"Atlanta, Ga",14-Jan-63,R,tt0181865,147 min,7.6
+262,670454427,Steven Soderbergh,White,Straight,2001,Traffic,Best Director,"Atlanta, Ga",14-Jan-63,R,tt0181865,147 min,7.6
+263,670454590,Benicio Del Toro,Hispanic,Straight,2001,Traffic,Best Supporting Actor,"Santurce, Puerto Rico",19-Feb-67,R,tt0181865,147 min,7.6
+264,670454590,Benicio Del Toro,Hispanic,Straight,2001,Traffic,Best Supporting Actor,"Santurce, Puerto Rico",19-Feb-67,R,tt0181865,147 min,7.6
+265,670454428,Ron Howard,White,Straight,2002,A Beautiful Mind,Best Director,"Duncan, Ok",1-Mar-54,PG-13,tt0268978,135 min,8.2
+266,670454428,Ron Howard,White,Straight,2002,A Beautiful Mind,Best Director,"Duncan, Ok",1-Mar-54,PG-13,tt0268978,135 min,8.2
+267,670454756,Jennifer Connelly,White,Straight,2002,A Beautiful Mind,Best Supporting Actress,"Catskill Mountains, Ny",12-Dec-70,PG-13,tt0268978,135 min,8.2
+268,670454756,Jennifer Connelly,White,Straight,2002,A Beautiful Mind,Best Supporting Actress,"Catskill Mountains, Ny",12-Dec-70,PG-13,tt0268978,135 min,8.2
+269,670454429,Roman Polanski,White,Straight,2003,The Pianist,Best Director,"Paris, France",18-Aug-33,R,tt0253474,150 min,8.5
+270,670454429,Roman Polanski,White,Straight,2003,The Pianist,Best Director,"Paris, France",18-Aug-33,R,tt0253474,150 min,8.5
+271,670454514,Adrien Brody,White,Straight,2003,The Pianist,Best Actor,New York City,14-Apr-73,R,tt0253474,150 min,8.5
+272,670454514,Adrien Brody,White,Straight,2003,The Pianist,Best Actor,New York City,14-Apr-73,R,tt0253474,150 min,8.5
+273,670454430,Peter Jackson,White,Straight,2004,The Lord of the Rings: Return of the King,Best Director,"Wellington, New Zealand",31-Oct-61,Not Rated,tt0405185,52 min,6.4
+274,670454431,Clint Eastwood,White,Straight,2005,Million Dollar Baby,Best Director,"San Francisco, Ca",31-May-30,PG-13,tt0405159,132 min,8.1
+275,670454431,Clint Eastwood,White,Straight,2005,Million Dollar Baby,Best Director,"San Francisco, Ca",31-May-30,PG-13,tt0405159,132 min,8.1
+276,670454431,Clint Eastwood,White,Straight,2005,Million Dollar Baby,Best Director,"San Francisco, Ca",31-May-30,PG-13,tt0405159,132 min,8.1
+277,670454431,Clint Eastwood,White,Straight,2005,Million Dollar Baby,Best Director,"San Francisco, Ca",31-May-30,PG-13,tt0405159,132 min,8.1
+278,670454431,Clint Eastwood,White,Straight,2005,Million Dollar Baby,Best Director,"San Francisco, Ca",31-May-30,PG-13,tt0405159,132 min,8.1
+279,670454594,Morgan Freeman,Black,Straight,2005,Million Dollar Baby,Best Supporting Actor,"Memphis, Tn",1-Jun-37,PG-13,tt0405159,132 min,8.1
+280,670454594,Morgan Freeman,Black,Straight,2005,Million Dollar Baby,Best Supporting Actor,"Memphis, Tn",1-Jun-37,PG-13,tt0405159,132 min,8.1
+281,670454594,Morgan Freeman,Black,Straight,2005,Million Dollar Baby,Best Supporting Actor,"Memphis, Tn",1-Jun-37,PG-13,tt0405159,132 min,8.1
+282,670454594,Morgan Freeman,Black,Straight,2005,Million Dollar Baby,Best Supporting Actor,"Memphis, Tn",1-Jun-37,PG-13,tt0405159,132 min,8.1
+283,670454594,Morgan Freeman,Black,Straight,2005,Million Dollar Baby,Best Supporting Actor,"Memphis, Tn",1-Jun-37,PG-13,tt0405159,132 min,8.1
+284,670454681,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+285,670454681,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+286,670454681,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+287,670454681,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+288,670454681,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+289,670944948,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+290,670944948,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+291,670944948,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+292,670944948,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+293,670944948,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+294,670945043,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+295,670945043,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+296,670945043,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+297,670945043,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+298,670945043,Hilary Swank,White,Straight,2005,Million Dollar Baby,Best Actress,"Lincoln, Ne",30-Jul-74,PG-13,tt0405159,132 min,8.1
+299,670454432,Ang Lee,Asian,Straight,2006,Brokeback Mountain,Best Director,"Pingtung, Taiwan",23-Oct-54,R,tt0388795,134 min,7.7
+300,670454433,Martin Scorsese,White,Straight,2007,The Departed,Best Director,"Flushing, Ny",17-Nov-42,R,tt0407887,151 min,8.5
+301,670454435,Danny Boyle,White,Straight,2009,Slumdog Millionaire,Best Director,"Manchester, England",20-Oct-56,R,tt1010048,120 min,8.0
+302,670454435,Danny Boyle,White,Straight,2009,Slumdog Millionaire,Best Director,"Manchester, England",20-Oct-56,R,tt1010048,120 min,8.0
+303,670946299,Danny Boyle,White,Straight,2009,Slumdog Millionaire,Best Director,"Manchester, England",20-Oct-56,R,tt1010048,120 min,8.0
+304,670946299,Danny Boyle,White,Straight,2009,Slumdog Millionaire,Best Director,"Manchester, England",20-Oct-56,R,tt1010048,120 min,8.0
+305,670454436,Kathryn Bigelow,White,Straight,2009,The Hurt Locker,Best Director,"San Carlos, Ca",27-Nov-51,R,tt0887912,131 min,7.5
+306,670454437,Tom Hooper,White,Na,2011,The King's Speech,Best Director,"London, England",1972,R,tt1504320,118 min,8.0
+307,670454437,Tom Hooper,White,Na,2011,The King's Speech,Best Director,"London, England",1972,R,tt1504320,118 min,8.0
+308,670454522,Colin Firth,White,Straight,2011,The King's Speech,Best Actor,"Grayshott, Hampshire, England",10-Sep-60,R,tt1504320,118 min,8.0
+309,670454522,Colin Firth,White,Straight,2011,The King's Speech,Best Actor,"Grayshott, Hampshire, England",10-Sep-60,R,tt1504320,118 min,8.0
+310,670454438,Michel Hazanavicius,White,Straight,2012,The Artist,Best Director,"Paris, France",29-Mar-67,PG-13,tt1655442,100 min,7.9
+311,670454438,Michel Hazanavicius,White,Straight,2012,The Artist,Best Director,"Paris, France",29-Mar-67,PG-13,tt1655442,100 min,7.9
+312,670454523,Jean Dujardin,White,Straight,2012,The Artist,Best Actor,"Rueil-Malmaison, Hauts-De-Seine, France",19-Jun-72,PG-13,tt1655442,100 min,7.9
+313,670454523,Jean Dujardin,White,Straight,2012,The Artist,Best Actor,"Rueil-Malmaison, Hauts-De-Seine, France",19-Jun-72,PG-13,tt1655442,100 min,7.9
+314,670454439,Ang Lee,Asian,Straight,2013,Life of Pi,Best Director,"Pingtung, Taiwan",23-Oct-54,PG,tt0454876,127 min,7.9
+315,670454440,Emil Jannings,White,Bisexual,1929,The Last Command,Best Actor,"Rorschach, Switzerland",23-Jul-1884,Not Rated,tt0019071,88 min,8.0
+316,670454441,Warner Baxter,White,Straight,1930,In Old Arizona,Best Actor,"Columbus, Oh",29-Mar-1889,Passed,tt0020018,95 min,5.5
+317,670454442,George Arliss,White,Straight,1930,Desraeli,Best Actor,"London, England",10-Apr-1868,,,,
+318,670454443,Lionel Barrymore,White,Straight,1931,A Free Soul,Best Actor,"Philadelphia, Pa",28-Apr-1878,Passed,tt0021885,93 min,6.7
+319,670454444,Wallace Beery,White,Straight,1932,The Champ,Best Actor,"Kansas City, Mo",1-Apr-1885,PG,tt0078950,121 min,6.9
+320,670454445,Charles Laughton,White,Gay,1934,The Private Life of Henry VIII,Best Actor,"Victoria Hotel, Scarborough, Yorkshire, England",1-Jul-1899,Not Rated,tt0024473,97 min,7.1
+321,670454448,Paul Muni,White,Straight,1937,The Story of Louis Pasteur,Best Actor,"Lviv, Ukraine",22-Sep-1895,Passed,tt0028313,86 min,7.3
+322,670454449,Spencer Tracy,White,Straight,1938,Captains Courageous,Best Actor,"Milwaukee, Wi",5-Apr-1900,G,tt0028691,117 min,8.0
+323,670454450,Spencer Tracy,White,Straight,1939,Boys Town,Best Actor,"Milwaukee, Wi",5-Apr-1900,Passed,tt0029942,96 min,7.3
+324,670454451,Robert Donat,White,Straight,1940,Goodbye Mr. Chips,Best Actor,"Withington, Manchester, England",18-Mar-05,Unrated,tt0031385,114 min,7.9
+325,670454452,Jimmy Stewart,White,Straight,1941,The Philadelphia Story,Best Actor,"Indiana, Pa",20-May-08,Not Rated,tt0032904,112 min,7.9
+326,670454453,Gary Cooper,White,Straight,1942,Sergeant York,Best Actor,"Helena, Mt",7-May-1901,Passed,tt0034167,134 min,7.7
+327,670454454,James Cagney,White,Straight,1943,Yankee Doodle Dandy,Best Actor,"Manhattan, Ny",17-Jul-1899,Passed,tt0035575,126 min,7.7
+328,670454455,Paul Lukas,White,Straight,1944,Watch on the Rhine,Best Actor,"Budapest, Hungary",26-May-1887,Approved,tt0036515,114 min,7.3
+329,670454459,Ronald Colman,White,Straight,1948,A Double Life,Best Actor,"Richmond, Surrey, England",9-Feb-1891,Approved,tt0039335,104 min,7.0
+330,670454460,Laurence Olivier,White,Bisexual,1949,Hamlet,Best Actor,"Dorking, Surrey, England",22-May-07,PG-13,tt0116477,242 min,7.7
+331,670454461,Broderick Crawford,White,Straight,1950,All The King's Men,Best Actor,"Philadelphia, Pa",9-Dec-11,PG-13,tt0405676,128 min,6.2
+332,670454462,Jose Ferrer,Hispanic,Straight,1951,Cyrano de Bergerac,Best Actor,"Santurce, Puerto Rico",8-Jan-09,PG,tt0099334,137 min,7.5
+333,670454463,Humphrey Bogart,White,Straight,1952,The Africa Queen,Best Actor,New York City,25-Dec-1899,,,,
+334,670454464,Gary Cooper,White,Straight,1953,High Noon,Best Actor,"Helena, Mt",7-May-1901,PG,tt0044706,85 min,7.9
+335,670454464,Gary Cooper,White,Straight,1953,High Noon,Best Actor,"Helena, Mt",7-May-1901,PG,tt0044706,85 min,7.9
+336,670944835,Gary Cooper,White,Straight,1953,High Noon,Best Actor,"Helena, Mt",7-May-1901,PG,tt0044706,85 min,7.9
+337,670944835,Gary Cooper,White,Straight,1953,High Noon,Best Actor,"Helena, Mt",7-May-1901,PG,tt0044706,85 min,7.9
+338,670454465,William Holden,White,Straight,1954,Stalag 17,Best Actor,"O'fallon, Il",17-Apr-18,Not Rated,tt0046359,120 min,8.0
+339,670454468,Yul Brynner,White,Straight,1957,The King and I,Best Actor,"Vladivostok, Russia",11-Jul-20,G,tt0049408,133 min,7.4
+340,670454470,David Niven,White,Straight,1959,Separate Tables,Best Actor,"London, England",1-Mar-09,Approved,tt0052182,100 min,7.4
+341,670454470,David Niven,White,Straight,1959,Separate Tables,Best Actor,"London, England",1-Mar-09,Approved,tt0052182,100 min,7.4
+342,670454713,Wendy Hiller,White,Straight,1959,Separate Tables,Best Supporting Actress,"Bramhall, Cheshire, England",15-Aug-12,Approved,tt0052182,100 min,7.4
+343,670454713,Wendy Hiller,White,Straight,1959,Separate Tables,Best Supporting Actress,"Bramhall, Cheshire, England",15-Aug-12,Approved,tt0052182,100 min,7.4
+344,670454471,Charlton Heston,White,Straight,1960,Ben-hur,Best Actor,"Evanston, Il",4-Oct-23,G,tt0052618,212 min,8.1
+345,670454472,Burt Lancaster,White,Straight,1961,Elmer Gantry,Best Actor,New York City,2-Nov-13,Approved,tt0053793,146 min,7.8
+346,670454472,Burt Lancaster,White,Straight,1961,Elmer Gantry,Best Actor,New York City,2-Nov-13,Approved,tt0053793,146 min,7.8
+347,670454715,Shirley Jones,White,Straight,1961,Elmer Gantry,Best Supporting Actress,"Charleroi, Pa",31-Mar-34,Approved,tt0053793,146 min,7.8
+348,670454715,Shirley Jones,White,Straight,1961,Elmer Gantry,Best Supporting Actress,"Charleroi, Pa",31-Mar-34,Approved,tt0053793,146 min,7.8
+349,670454473,Maximilian Schell,White,Straight,1962,Judgement at Nuremberg,Best Actor,"Vienna, Austria",8-Dec-30,,,,
+350,670454474,Gregory Peck,White,Straight,1963,To Kill a Mockingbird,Best Actor,"La Jolla, Ca",5-Apr-16,Approved,tt0056592,129 min,8.2
+351,670454475,Sidney Poitier,Black,Straight,1964,Lilies of the Field,Best Actor,"Miami, Fl",20-Feb-27,Unrated,tt0057251,94 min,7.6
+352,670454477,Lee Marvin,White,Straight,1966,Cat Ballou,Best Actor,New York City,19-Feb-24,Not Rated,tt0059017,97 min,6.8
+353,670454478,Paul Scofield,White,Straight,1967,A Man For All Seasons,Best Actor,"Hurstpierpoint, West Sussex, England",21-Jan-22,G,tt0060665,120 min,7.7
+354,670454479,Rod Steiger,White,Straight,1968,In the Heat of the Night,Best Actor,"Westhampton, Ny",14-Apr-25,Approved,tt0061811,110 min,7.9
+355,670454480,Cliff Robertson,White,Straight,1969,Charly,Best Actor,"La Jolla, Ca",9-Sep-23,M,tt0062794,103 min,7.0
+356,670454481,John Wayne,White,Straight,1970,True Grit,Best Actor,"Winterset, Ia",26-May-07,PG-13,tt1403865,110 min,7.6
+357,670454484,Marlon Brando,White,Bisexual,1973,The Godfather,Best Actor,"Omaha, Ne",3-Apr-24,R,tt0068646,175 min,9.2
+358,670454485,Jack Lemmon,White,Straight,1974,Save the Tiger,Best Actor,"Newton, Ma",8-Feb-25,R,tt0070640,100 min,6.9
+359,670454486,Art Carney,White,Straight,1975,Harry and Tonto,Best Actor,"Mount Vernon, Ny",4-Nov-18,R,tt0071598,115 min,7.4
+360,670454487,Jack Nicholson,White,Straight,1976,One Flew Over the Cuckoo's Nest,Best Actor,New York City,22-Apr-37,R,tt0073486,133 min,8.7
+361,670454487,Jack Nicholson,White,Straight,1976,One Flew Over the Cuckoo's Nest,Best Actor,New York City,22-Apr-37,R,tt0073486,133 min,8.7
+362,670454652,Louise Fletcher,White,Straight,1976,One Flew Over the Cuckoo's Nest,Best Actress,"Birmingham, Al",22-Jul-34,R,tt0073486,133 min,8.7
+363,670454652,Louise Fletcher,White,Straight,1976,One Flew Over the Cuckoo's Nest,Best Actress,"Birmingham, Al",22-Jul-34,R,tt0073486,133 min,8.7
+364,670454488,Peter Finch,White,Straight,1977,Network,Best Actor,"South Kensington, London, England",28-Sep-16,R,tt0074958,121 min,8.1
+365,670454488,Peter Finch,White,Straight,1977,Network,Best Actor,"South Kensington, London, England",28-Sep-16,R,tt0074958,121 min,8.1
+366,670454488,Peter Finch,White,Straight,1977,Network,Best Actor,"South Kensington, London, England",28-Sep-16,R,tt0074958,121 min,8.1
+367,670454488,Peter Finch,White,Straight,1977,Network,Best Actor,"South Kensington, London, England",28-Sep-16,R,tt0074958,121 min,8.1
+368,670454653,Faye Dunaway,White,Straight,1977,Network,Best Actress,"Bascom, Fl",14-Jan-41,R,tt0074958,121 min,8.1
+369,670454653,Faye Dunaway,White,Straight,1977,Network,Best Actress,"Bascom, Fl",14-Jan-41,R,tt0074958,121 min,8.1
+370,670454653,Faye Dunaway,White,Straight,1977,Network,Best Actress,"Bascom, Fl",14-Jan-41,R,tt0074958,121 min,8.1
+371,670454653,Faye Dunaway,White,Straight,1977,Network,Best Actress,"Bascom, Fl",14-Jan-41,R,tt0074958,121 min,8.1
+372,670454731,Beatrice Straight,White,Straight,1977,Network,Best Supporting Actress,"Old Westbury, Ny",2-Aug-14,R,tt0074958,121 min,8.1
+373,670454731,Beatrice Straight,White,Straight,1977,Network,Best Supporting Actress,"Old Westbury, Ny",2-Aug-14,R,tt0074958,121 min,8.1
+374,670454731,Beatrice Straight,White,Straight,1977,Network,Best Supporting Actress,"Old Westbury, Ny",2-Aug-14,R,tt0074958,121 min,8.1
+375,670454731,Beatrice Straight,White,Straight,1977,Network,Best Supporting Actress,"Old Westbury, Ny",2-Aug-14,R,tt0074958,121 min,8.1
+376,670944674,Faye Dunaway,White,Straight,1977,Network,Best Actress,"Bascom, Fl",14-Jan-41,R,tt0074958,121 min,8.1
+377,670944674,Faye Dunaway,White,Straight,1977,Network,Best Actress,"Bascom, Fl",14-Jan-41,R,tt0074958,121 min,8.1
+378,670944674,Faye Dunaway,White,Straight,1977,Network,Best Actress,"Bascom, Fl",14-Jan-41,R,tt0074958,121 min,8.1
+379,670944674,Faye Dunaway,White,Straight,1977,Network,Best Actress,"Bascom, Fl",14-Jan-41,R,tt0074958,121 min,8.1
+380,670454489,Richard Dreyfuss,White,Straight,1978,The Goodbye Girl,Best Actor,"Brooklyn, Ny",29-Oct-47,PG,tt0076095,111 min,7.4
+381,670454490,Jon Voight,White,Straight,1979,Coming Home,Best Actor,"Yonkers, Ny",29-Dec-38,R,tt0077362,127 min,7.3
+382,670454490,Jon Voight,White,Straight,1979,Coming Home,Best Actor,"Yonkers, Ny",29-Dec-38,R,tt0077362,127 min,7.3
+383,670454655,Jane Fonda,White,Straight,1979,Coming Home,Best Actress,New York City,21-Dec-37,R,tt0077362,127 min,7.3
+384,670454655,Jane Fonda,White,Straight,1979,Coming Home,Best Actress,New York City,21-Dec-37,R,tt0077362,127 min,7.3
+385,670454492,Robert De Niro,White,Straight,1981,Raging Bull,Best Actor,New York City,17-Aug-43,R,tt0081398,129 min,8.2
+386,670454493,Henry Fonda,White,Straight,1982,On Golden Pond,Best Actor,"Grand Island, Ne",16-May-05,PG,tt0082846,109 min,7.6
+387,670454493,Henry Fonda,White,Straight,1982,On Golden Pond,Best Actor,"Grand Island, Ne",16-May-05,PG,tt0082846,109 min,7.6
+388,670454658,Katharine Hepburn,White,Bisexual,1982,On Golden Pond,Best Actress,"Hartford, Ct",12-May-07,PG,tt0082846,109 min,7.6
+389,670454658,Katharine Hepburn,White,Bisexual,1982,On Golden Pond,Best Actress,"Hartford, Ct",12-May-07,PG,tt0082846,109 min,7.6
+390,670454495,Robert Duvall,White,Straight,1984,Tender Mercies,Best Actor,"San Diego, Ca",5-Jan-31,PG,tt0086423,92 min,7.4
+391,670454497,William Hurt,White,Straight,1986,Kiss of the Spider Woman,Best Actor,"Washington, Dc",20-Mar-50,R,tt0089424,120 min,7.4
+392,670454498,Paul Newman,White,Straight,1987,The Color of Money,Best Actor,"Shaker Heights, Oh",26-Jan-25,R,tt0090863,119 min,7.0
+393,670454499,Michael Douglas,White,Straight,1988,Wall Street,Best Actor,"New Brunswick, Nj",25-Sep-44,R,tt0094291,126 min,7.4
+394,670454500,Dustin Hoffman,White,Straight,1989,Rainman,Best Actor,"Los Angeles, Ca",8-Aug-37,N/A,tt1806998,30 min,N/A
+395,670454501,Daniel Day-Lewis,White,Straight,1990,My Left Foot,Best Actor,"London, England",29-Apr-57,R,tt0097937,103 min,7.9
+396,670454501,Daniel Day-Lewis,White,Straight,1990,My Left Foot,Best Actor,"London, England",29-Apr-57,R,tt0097937,103 min,7.9
+397,670454744,Brenda Fricker,White,Straight,1990,My Left Foot,Best Supporting Actress,"Dublin, Ireland",17-Feb-45,R,tt0097937,103 min,7.9
+398,670454744,Brenda Fricker,White,Straight,1990,My Left Foot,Best Supporting Actress,"Dublin, Ireland",17-Feb-45,R,tt0097937,103 min,7.9
+399,670454502,Jeremy Irons,White,Straight,1991,Reversal of Fortune,Best Actor,"Cowes, Isle of Wight, England",19-Sep-48,R,tt0100486,111 min,7.2
+400,670454503,Anthony Hopkins,White,Straight,1992,Silence of the Lambs,Best Actor,"Port Talbot, Wales",31-Dec-37,N/A,tt2665218,N/A,7.9
+401,670454504,Al Pacino,White,Straight,1993,Scent of a Woman,Best Actor,"East Harlem, New York City",25-Apr-40,R,tt0105323,156 min,8.0
+402,670454505,Tom Hanks,White,Straight,1994,Philadelphia,Best Actor,"Concord, Ca",9-Jul-56,PG-13,tt0107818,125 min,7.7
+403,670454505,Tom Hanks,White,Straight,1994,Philadelphia,Best Actor,"Concord, Ca",9-Jul-56,PG-13,tt0107818,125 min,7.7
+404,670944094,Tom Hanks,White,Straight,1994,Philadelphia,Best Actor,"Concord, Ca",9-Jul-56,PG-13,tt0107818,125 min,7.7
+405,670944094,Tom Hanks,White,Straight,1994,Philadelphia,Best Actor,"Concord, Ca",9-Jul-56,PG-13,tt0107818,125 min,7.7
+406,670454507,Nicolas Cage,White,Straight,1996,Leaving Las Vegas,Best Actor,"Long Beach, Ca",7-Jan-64,R,tt0113627,111 min,7.5
+407,670454508,Geoffrey Rush,White,Straight,1997,Shine,Best Actor,"Toowoomba, Queensland, Australia",6-Jul-51,PG-13,tt0117631,105 min,7.7
+408,670454509,Jack Nicholson,White,Straight,1997,As Good as It Gets,Best Actor,New York City,22-Apr-37,PG-13,tt0119822,139 min,7.7
+409,670454510,Roberto Benigni,White,Straight,1999,Life is Beautiful,Best Actor,"Misericordia, Arezzo, Tuscany, Italy",27-Oct-52,PG-13,tt0118799,116 min,8.6
+410,670454512,Russell Crowe,White,Straight,2001,Gladiator,Best Actor,"Wellington, New Zealand",7-Apr-64,R,tt0172495,155 min,8.5
+411,670454513,Denzel Washington,Black,Straight,2002,Training Day,Best Actor,"Mount Vernon, Ny",28-Dec-54,R,tt0139654,122 min,7.7
+412,670454515,Sean Penn,White,Straight,2003,Mystic River,Best Actor,"Burbank, Ca",17-Aug-60,R,tt0327056,138 min,7.9
+413,670454515,Sean Penn,White,Straight,2003,Mystic River,Best Actor,"Burbank, Ca",17-Aug-60,R,tt0327056,138 min,7.9
+414,670454593,Tim Robbins,White,Straight,2004,Mystic River,Best Supporting Actor,"West Covina, Ca",16-Oct-58,R,tt0327056,138 min,7.9
+415,670454593,Tim Robbins,White,Straight,2004,Mystic River,Best Supporting Actor,"West Covina, Ca",16-Oct-58,R,tt0327056,138 min,7.9
+416,670454516,Jamie Foxx,Black,Straight,2005,Ray,Best Actor,"Terrell, Tx",13-Dec-67,PG-13,tt0350258,152 min,7.7
+417,670454517,Philip Seymour Hoffman,White,Straight,2006,Capote,Best Actor,"Fairport, Ny",23-Jul-67,R,tt0379725,114 min,7.3
+418,670454518,Forest Whitaker,Black,Straight,2007,The Last King of Scotland,Best Actor,"Longview, Tx",15-Jul-61,R,tt0455590,123 min,7.7
+419,670454519,Daniel Day-Lewis,White,Straight,2008,There Will Be Blood,Best Actor,"London, England",29-Apr-57,R,tt0469494,158 min,8.2
+420,670454520,Sean Penn,White,Straight,2009,Milk,Best Actor,"Burbank, Ca",17-Aug-60,R,tt1013753,128 min,7.5
+421,670454521,Jeff Bridges,White,Straight,2010,Crazy Heart,Best Actor,"Los Angeles, Ca",4-Dec-49,R,tt1263670,112 min,7.2
+422,670454524,Daniel Day-Lewis,White,Straight,2013,Lincoln,Best Actor,"London, England",29-Apr-57,PG-13,tt0443272,150 min,7.3
+423,670454525,Matthew McConaughey,White,Straight,2014,Dallas Buyers Club,Best Actor,"Uvalde, Tx",4-Nov-69,R,tt0790636,117 min,8.0
+424,670454525,Matthew McConaughey,White,Straight,2014,Dallas Buyers Club,Best Actor,"Uvalde, Tx",4-Nov-69,R,tt0790636,117 min,8.0
+425,670454603,Jared Leto,White,Straight,2014,Dallas Buyers Club,Best Supporting Actor,"Bossier City, La",26-Dec-71,R,tt0790636,117 min,8.0
+426,670454603,Jared Leto,White,Straight,2014,Dallas Buyers Club,Best Supporting Actor,"Bossier City, La",26-Dec-71,R,tt0790636,117 min,8.0
+427,670454526,Walter Brennan,White,Straight,1938,Come and Get It,Best Supporting Actor,"Swampscott, Ma",25-Jul-1894,Passed,tt0027459,99 min,6.9
+428,670454527,Joseph Schildkraut,White,Straight,1938,The Life of Emile Zola,Best Supporting Actor,"Vienna, Austria",22-Mar-1896,Passed,tt0029146,116 min,7.2
+429,670454528,Walter Brennan,White,Straight,1939,Kentucky,Best Supporting Actor,"Swampscott, Ma",25-Jul-1894,Passed,tt0030317,96 min,6.3
+430,670454529,Thomas Mitchell,White,Straight,1940,Stagecoach,Best Supporting Actor,"Elizabeth, Nj",11-Jul-1892,Passed,tt0031971,96 min,7.8
+431,670454530,Walter Brennan,White,Straight,1941,The Westerner,Best Supporting Actor,"Swampscott, Ma",25-Jul-1894,Approved,tt0033253,100 min,7.3
+432,670454532,Van Heflin,White,Straight,1943,Johnny Eager,Best Supporting Actor,"Walters, Ok",13-Dec-10,Passed,tt0033774,107 min,7.1
+433,670454532,Van Heflin,White,Straight,1943,Johnny Eager,Best Supporting Actor,"Walters, Ok",13-Dec-10,Passed,tt0033774,107 min,7.1
+434,670944755,Van Heflin,White,Straight,1943,Johnny Eager,Best Supporting Actor,"Walters, Ok",13-Dec-10,Passed,tt0033774,107 min,7.1
+435,670944755,Van Heflin,White,Straight,1943,Johnny Eager,Best Supporting Actor,"Walters, Ok",13-Dec-10,Passed,tt0033774,107 min,7.1
+436,670454533,Charles Coburn,White,Straight,1944,The More the Merrier,Best Supporting Actor,"Savannah, Ga",17-Jun-1877,Passed,tt0036172,104 min,7.7
+437,670454535,James Dunn,White,Straight,1946,A Tree Grows in Brooklyn,Best Supporting Actor,New York City,2-Nov-1901,PG,tt0038190,129 min,8.0
+438,670454537,Edmund Gwenn,White,Na,1948,Miracle on 34th Street,Best Supporting Actor,"Vale of Glamorgan, Wales",26-Sep-1875,Not Rated,tt0039628,96 min,7.9
+439,670454539,Dean Jagger,White,Straight,1950,Twelve O'Clock High,Best Supporting Actor,"Lima, Oh",7-Nov-1903,Not Rated,tt0041996,132 min,7.7
+440,670454541,Karl Malden,White,Straight,1952,A Streetcar Named Desire,Best Supporting Actor,"Chicago, Il",22-Mar-12,PG,tt0044081,122 min,8.0
+441,670454541,Karl Malden,White,Straight,1952,A Streetcar Named Desire,Best Supporting Actor,"Chicago, Il",22-Mar-12,PG,tt0044081,122 min,8.0
+442,670454541,Karl Malden,White,Straight,1952,A Streetcar Named Desire,Best Supporting Actor,"Chicago, Il",22-Mar-12,PG,tt0044081,122 min,8.0
+443,670454627,Vivien Leigh,White,Straight,1952,A Streetcar Named Desire,Best Actress,"Darjeeling, India",5-Nov-13,PG,tt0044081,122 min,8.0
+444,670454627,Vivien Leigh,White,Straight,1952,A Streetcar Named Desire,Best Actress,"Darjeeling, India",5-Nov-13,PG,tt0044081,122 min,8.0
+445,670454627,Vivien Leigh,White,Straight,1952,A Streetcar Named Desire,Best Actress,"Darjeeling, India",5-Nov-13,PG,tt0044081,122 min,8.0
+446,670454706,Kim Hunter,White,Straight,1952,A Streetcar Named Desire,Best Supporting Actress,"Detroit, Mi",12-Nov-22,PG,tt0044081,122 min,8.0
+447,670454706,Kim Hunter,White,Straight,1952,A Streetcar Named Desire,Best Supporting Actress,"Detroit, Mi",12-Nov-22,PG,tt0044081,122 min,8.0
+448,670454706,Kim Hunter,White,Straight,1952,A Streetcar Named Desire,Best Supporting Actress,"Detroit, Mi",12-Nov-22,PG,tt0044081,122 min,8.0
+449,670454542,Anthony Quinn,Hispanic,Straight,1953,Viva Zapata!,Best Supporting Actor,"Chihuahua, Mexico",21-Apr-15,Approved,tt0045296,113 min,7.4
+450,670454544,Edmond O'Brien,White,Straight,1955,The Barefoot Contessa,Best Supporting Actor,New York City,10-Sep-15,Not Rated,tt0046754,128 min,7.0
+451,670454545,Jack Lemmon,White,Straight,1956,Mister Roberts,Best Supporting Actor,"Newton, Ma",8-Feb-25,Not Rated,tt0048380,123 min,7.7
+452,670454546,Anthony Quinn,Hispanic,Straight,1957,Lust for Life,Best Supporting Actor,"Chihuahua, Mexico",21-Apr-15,Approved,tt0049456,122 min,7.4
+453,670454547,Red Buttons,White,Straight,1958,Sayonara,Best Supporting Actor,New York City,5-Feb-19,Not Rated,tt0050933,147 min,7.1
+454,670454547,Red Buttons,White,Straight,1958,Sayonara,Best Supporting Actor,New York City,5-Feb-19,Not Rated,tt0050933,147 min,7.1
+455,670454712,Miyoshi Umeki,Asian,Straight,1958,Sayonara,Best Supporting Actress,"Otaro, Hokkaido, Japan",3-Apr-29,Not Rated,tt0050933,147 min,7.1
+456,670454712,Miyoshi Umeki,Asian,Straight,1958,Sayonara,Best Supporting Actress,"Otaro, Hokkaido, Japan",3-Apr-29,Not Rated,tt0050933,147 min,7.1
+457,670454548,Burl Ives,White,Straight,1959,The Big Country,Best Supporting Actor,"Hunt City, Il",14-Jun-09,Passed,tt0051411,166 min,7.9
+458,670454550,Peter Ustinov,White,Straight,1961,Spartacus,Best Supporting Actor,"London, England",16-Apr-21,TV-MA,tt1442449,55 min,8.5
+459,670454552,"Ed Begley, Sr.",White,Straight,1963,Sweet Bird of Youth,Best Supporting Actor,"Hartford, Ct",25-Mar-1901,Approved,tt0056541,120 min,7.3
+460,670454553,Melvyn Douglas,White,Straight,1964,Hud,Best Supporting Actor,"Macon, Ga",5-Apr-1901,Not Rated,tt0057163,112 min,7.8
+461,670454553,Melvyn Douglas,White,Straight,1964,Hud,Best Supporting Actor,"Macon, Ga",5-Apr-1901,Not Rated,tt0057163,112 min,7.8
+462,670454639,Patricia Neal,White,Straight,1964,Hud,Best Actress,"Packard, Ky",20-Jan-26,Not Rated,tt0057163,112 min,7.8
+463,670454639,Patricia Neal,White,Straight,1964,Hud,Best Actress,"Packard, Ky",20-Jan-26,Not Rated,tt0057163,112 min,7.8
+464,670454554,Peter Ustinov,White,Straight,1965,Topkapi,Best Supporting Actor,"London, England",16-Apr-21,Unrated,tt0058672,120 min,7.0
+465,670454555,Martin Balsam,White,Straight,1966,A Thousand Clowns,Best Supporting Actor,"Bronx, Ny",4-Nov-19,Unrated,tt0059798,118 min,7.4
+466,670454556,Walter Matthau,White,Straight,1967,The Fortune Cookie,Best Supporting Actor,New York City,1-Oct-20,Approved,tt0060424,125 min,7.3
+467,670454557,George Kennedy,White,Straight,1968,Cool Hand Luke,Best Supporting Actor,New York City,18-Feb-25,GP,tt0061512,127 min,8.1
+468,670454558,Jack Albertson,White,Na,1969,The Subject Was Roses,Best Supporting Actor,"Malden, Ma",16-Jun-07,G,tt0063654,107 min,7.1
+469,670454558,Jack Albertson,White,Na,1969,The Subject Was Roses,Best Supporting Actor,"Malden, Ma",16-Jun-07,G,tt0063654,107 min,7.1
+470,670945790,Jack Albertson,White,Na,1969,The Subject Was Roses,Best Supporting Actor,"Malden, Ma",16-Jun-07,G,tt0063654,107 min,7.1
+471,670945790,Jack Albertson,White,Na,1969,The Subject Was Roses,Best Supporting Actor,"Malden, Ma",16-Jun-07,G,tt0063654,107 min,7.1
+472,670454559,Gig Young,White,Straight,1970,"They Shoot Horses, Don't They?",Best Supporting Actor,"St. Cloud, Mn",4-Nov-13,M,tt0065088,129 min,7.9
+473,670454560,John Mills,White,Straight,1971,Ryan's Daughter,Best Supporting Actor,"Felixstowe, Suffolk, England",22-Feb-08,R,tt0066319,206 min,7.4
+474,670454561,Ben Johnson,White,Straight,1972,The Last Picture Show,Best Supporting Actor,"Shidler, Ok",13-Jun-18,R,tt0067328,118 min,8.0
+475,670454561,Ben Johnson,White,Straight,1972,The Last Picture Show,Best Supporting Actor,"Shidler, Ok",13-Jun-18,R,tt0067328,118 min,8.0
+476,670454726,Cloris Leachman,White,Straight,1972,The Last Picture Show,Best Supporting Actress,"Des Moines, Ia",30-Apr-26,R,tt0067328,118 min,8.0
+477,670454726,Cloris Leachman,White,Straight,1972,The Last Picture Show,Best Supporting Actress,"Des Moines, Ia",30-Apr-26,R,tt0067328,118 min,8.0
+478,670454563,John Houseman,White,Straight,1974,The Paper Chase,Best Supporting Actor,"Bucharest, Romania",22-Sep-1902,PG,tt0070509,113 min,7.2
+479,670454565,George Burns,White,Straight,1976,The Sunshine Boys,Best Supporting Actor,New York City,20-Jan-1896,PG,tt0073766,111 min,7.1
+480,670454566,Jason Robards,White,Straight,1977,All the President's Men,Best Supporting Actor,"Chicago, Il",26-Jul-22,PG,tt0074119,138 min,8.0
+481,670454566,Jason Robards,White,Straight,1977,All the President's Men,Best Supporting Actor,"Chicago, Il",26-Jul-22,PG,tt0074119,138 min,8.0
+482,670964912,Jason Robards,White,Straight,1977,All the President's Men,Best Supporting Actor,"Chicago, Il",26-Jul-22,PG,tt0074119,138 min,8.0
+483,670964912,Jason Robards,White,Straight,1977,All the President's Men,Best Supporting Actor,"Chicago, Il",26-Jul-22,PG,tt0074119,138 min,8.0
+484,670454567,Jason Robards,White,Straight,1978,Julia,Best Supporting Actor,"Chicago, Il",26-Jul-22,PG,tt0076245,117 min,7.2
+485,670454567,Jason Robards,White,Straight,1978,Julia,Best Supporting Actor,"Chicago, Il",26-Jul-22,PG,tt0076245,117 min,7.2
+486,670454732,Vanessa Redgrave,White,Straight,1978,Julia,Best Supporting Actress,"London, England",30-Jan-37,PG,tt0076245,117 min,7.2
+487,670454732,Vanessa Redgrave,White,Straight,1978,Julia,Best Supporting Actress,"London, England",30-Jan-37,PG,tt0076245,117 min,7.2
+488,670454569,Melvyn Douglas,White,Straight,1980,Being There,Best Supporting Actor,"Macon, Ga",5-Apr-1901,PG,tt0078841,130 min,8.0
+489,670454570,Timothy Hutton,White,Straight,1981,Oridnary People,Best Supporting Actor,"Malibu, Ca",16-Aug-60,,,,
+490,670454571,John Gielgud,White,Gay,1982,Arthur,Best Supporting Actor,"London, England",14-Apr-04,PG-13,tt1334512,110 min,5.7
+491,670454572,"Lou Gossett, Jr.",Black,Straight,1983,An Officer and a Gentleman,Best Supporting Actor,"Brooklyn, Ny",27-May-36,R,tt0084434,124 min,7.0
+492,670454574,Haing S. Ngor,Asian,Straight,1985,The Killing Fields,Best Supporting Actor,"Samrong Young, Cambodia",22-Mar-40,R,tt0087553,141 min,7.8
+493,670454575,Don Ameche,White,Straight,1986,Cocoon,Best Supporting Actor,"Kenosha, Wi",31-May-04,PG-13,tt0088933,117 min,6.7
+494,670454576,Michael Caine,White,Straight,1987,Hannah and Her Sisters,Best Supporting Actor,"Bermondsey, England",14-Mar-33,PG-13,tt0091167,107 min,7.9
+495,670454576,Michael Caine,White,Straight,1987,Hannah and Her Sisters,Best Supporting Actor,"Bermondsey, England",14-Mar-33,PG-13,tt0091167,107 min,7.9
+496,670454741,Dianne Wiest,White,Straight,1987,Hannah and Her Sisters,Best Supporting Actress,"Kansas City, Mo",28-Mar-48,PG-13,tt0091167,107 min,7.9
+497,670454741,Dianne Wiest,White,Straight,1987,Hannah and Her Sisters,Best Supporting Actress,"Kansas City, Mo",28-Mar-48,PG-13,tt0091167,107 min,7.9
+498,670454577,Sean Connery,White,Straight,1988,The Untouchables,Best Supporting Actor,"Edinburgh, Scotland",25-Aug-30,R,tt0094226,119 min,7.9
+499,670454578,Kevin Kline,White,Straight,1989,A Fish Called Wanda,Best Supporting Actor,"St. Louis, Mo",24-Oct-47,R,tt0095159,108 min,7.5
+500,670454579,Denzel Washington,Black,Straight,1990,Glory,Best Supporting Actor,"Mount Vernon, Ny",28-Dec-54,R,tt0097441,122 min,7.8
+501,670454580,Joe Pesci,White,Straight,1991,Good Fellas,Best Supporting Actor,"Newark, Nj",9-Feb-43,N/A,tt5679188,N/A,N/A
+502,670454581,Jack Palance,White,Straight,1992,City Slickers,Best Supporting Actor,"Lattimer Mines, Pa",18-Feb-19,PG-13,tt0101587,113 min,6.8
+503,670454583,Tommy Lee Jones,White,Straight,1994,The Fugitive,Best Supporting Actor,"San Saba, Tx",15-Sep-46,PG-13,tt0106977,130 min,7.8
+504,670454584,Martin Landau,White,Straight,1995,Ed Wood,Best Supporting Actor,"Brooklyn, Ny",20-Jun-31,R,tt0109707,127 min,7.8
+505,670454585,Kevin Spacey,White,Matter of Dispute,1996,The Usual Suspects,Best Supporting Actor,"South Orange, Nj",26-Jul-59,R,tt0114814,106 min,8.5
+506,670454586,"Cuba Gooding, Jr.",Black,Straight,1997,Jerry Maguire,Best Supporting Actor,"Bronx, Ny",2-Jan-68,R,tt0116695,139 min,7.3
+507,670454587,Robin Williams,White,Straight,1998,Good Will Hunting,Best Supporting Actor,"Chicago, Il",21-Jul-51,R,tt0119217,126 min,8.3
+508,670454588,James Coburn,White,Straight,1999,Affliction,Best Supporting Actor,"Laurel, Ne",31-Aug-28,R,tt0118564,114 min,7.0
+509,670454588,James Coburn,White,Straight,1999,Affliction,Best Supporting Actor,"Laurel, Ne",31-Aug-28,R,tt0118564,114 min,7.0
+510,670964956,James Coburn,White,Straight,1999,Affliction,Best Supporting Actor,"Laurel, Ne",31-Aug-28,R,tt0118564,114 min,7.0
+511,670964956,James Coburn,White,Straight,1999,Affliction,Best Supporting Actor,"Laurel, Ne",31-Aug-28,R,tt0118564,114 min,7.0
+512,670454589,Michael Caine,White,Straight,2000,The Cider House Rules,Best Supporting Actor,"Bermondsey, England",14-Mar-33,PG-13,tt0124315,126 min,7.4
+513,670454591,Jim Broadbent,White,Straight,2002,Iris,Best Supporting Actor,"Lincoln, Lincolnshire, England",24-May-49,R,tt0280778,91 min,7.0
+514,670454592,Chris Cooper,White,Straight,2003,Adaptation,Best Supporting Actor,"Kansas City, Mo",9-Jul-51,N/A,tt9117156,N/A,N/A
+515,670454595,George Clooney,White,Straight,2006,Syriana,Best Supporting Actor,"Lexington, Ky",6-May-61,R,tt0365737,128 min,6.9
+516,670454596,Alan Arkin,White,Straight,2007,Little Miss Sunshine,Best Supporting Actor,"Brooklyn, Ny",26-Mar-34,R,tt0449059,101 min,7.8
+517,670454598,Heath Ledger,White,Straight,2009,The Dark Knight,Best Supporting Actor,"Perth, Australia",4-Apr-79,PG-13,tt0468569,152 min,9.0
+518,670454599,Christoph Waltz,White,Straight,2010,Inglourious Basterds,Best Supporting Actor,Na,4-Oct-56,R,tt0361748,153 min,8.3
+519,670454600,Christian Bale,White,Straight,2011,The Fighter,Best Supporting Actor,"Haverfordwest, Pembrokeshire, Wales",30-Jan-74,R,tt0964517,116 min,7.8
+520,670454600,Christian Bale,White,Straight,2011,The Fighter,Best Supporting Actor,"Haverfordwest, Pembrokeshire, Wales",30-Jan-74,R,tt0964517,116 min,7.8
+521,670454765,Melissa Leo,White,Straight,2011,The Fighter,Best Supporting Actress,New York City,14-Sep-60,R,tt0964517,116 min,7.8
+522,670454765,Melissa Leo,White,Straight,2011,The Fighter,Best Supporting Actress,New York City,14-Sep-60,R,tt0964517,116 min,7.8
+523,670454601,Christopher Plummer,White,Straight,2012,Beginning,Best Supporting Actor,"Toronto, Ontario, Canada",13-Dec-29,N/A,tt12444572,130 min,6.5
+524,670454602,Christoph Waltz,White,Straight,2013,Django Unchained,Best Supporting Actor,Na,4-Oct-56,R,tt1853728,165 min,8.4
+525,670454604,Janet Gaynor,White,Straight,1929,7th Heaven,Best Actress,"Philadelphia, Pa",6-Oct-06,TV-G,tt0115083,60 min,5.2
+526,670454605,Mary Pickford,White,Straight,1930,Coquette,Best Actress,"Toronto, Ontario, Canada",8-Apr-1892,Unrated,tt0019788,76 min,5.8
+527,670454606,Norma Shearer,White,Straight,1930,The Divorcee,Best Actress,"Montreal, Quebec, Canada",10-Aug-1902,Passed,tt0020827,84 min,6.7
+528,670454607,Marie Dressler,White,Straight,1931,Min and Bill,Best Actress,"Cobourg, Ontario, Canada",2-Nov-1868,Passed,tt0021148,69 min,6.8
+529,670454608,Helen Hayes,White,Straight,1932,The Sin of Madelon Claudet,Best Actress,"Washington, Dc",10-Oct-1900,Passed,tt0022386,75 min,6.6
+530,670454609,Katharine Hepburn,White,Bisexual,1934,Morning Glory,Best Actress,"Hartford, Ct",12-May-07,PG-13,tt1126618,107 min,6.5
+531,670454611,Bette Davis,White,Straight,1936,Dangerous,Best Actress,"Lowell, Ma",5-Apr-08,Approved,tt0026261,79 min,6.9
+532,670454612,Luise Rainer,White,Straight,1937,The Great Ziegfeld,Best Actress,"Dusseldorf, Germany",12-Jan-10,Not Rated,tt0027698,176 min,6.7
+533,670454613,Luise Rainer,White,Straight,1938,The Good Earth,Best Actress,"Dusseldorf, Germany",12-Jan-10,Passed,tt0028944,138 min,7.5
+534,670454614,Bette Davis,White,Straight,1939,Jezebel,Best Actress,"Lowell, Ma",5-Apr-08,Approved,tt0030287,104 min,7.5
+535,670454614,Bette Davis,White,Straight,1939,Jezebel,Best Actress,"Lowell, Ma",5-Apr-08,Approved,tt0030287,104 min,7.5
+536,670454693,Fay Bainter,White,Straight,1939,Jezebel,Best Supporting Actress,"Los Angeles, Ca",7-Dec-1891,Approved,tt0030287,104 min,7.5
+537,670454693,Fay Bainter,White,Straight,1939,Jezebel,Best Supporting Actress,"Los Angeles, Ca",7-Dec-1891,Approved,tt0030287,104 min,7.5
+538,670454616,Ginger Rogers,White,Straight,1941,Kitty Foyle,Best Actress,"Independence, Mo",16-Jul-11,Approved,tt0032671,108 min,7.0
+539,670454616,Ginger Rogers,White,Straight,1941,Kitty Foyle,Best Actress,"Independence, Mo",16-Jul-11,Approved,tt0032671,108 min,7.0
+540,670939613,Ginger Rogers,White,Straight,1941,Kitty Foyle,Best Actress,"Independence, Mo",16-Jul-11,Approved,tt0032671,108 min,7.0
+541,670939613,Ginger Rogers,White,Straight,1941,Kitty Foyle,Best Actress,"Independence, Mo",16-Jul-11,Approved,tt0032671,108 min,7.0
+542,670454617,Joan Fontaine,White,Straight,1940,Suspicion,Best Actress,"Tokyo, Japan",22-Oct-17,Not Rated,tt0034248,99 min,7.4
+543,670454619,Jennifer Jones,White,Straight,1944,The Song of Bernadette,Best Actress,"Tulsa, Ok",2-Mar-19,Approved,tt0036377,156 min,7.6
+544,670454620,Ingrid Bergman,White,Straight,1945,Gaslight,Best Actress,"Stockholm, Sweden",29-Aug-15,Not Rated,tt0036855,114 min,7.8
+545,670454621,Joan Crawford,White,Bisexual,1946,Mildred Pierce,Best Actress,"San Antonio, Tx",23-Mar-05,Approved,tt0037913,111 min,8.0
+546,670454622,Olivia de Havilland,White,Straight,1947,To Each His Own,Best Actress,"Tokyo, Japan",1-Jul-16,Approved,tt0039040,122 min,7.7
+547,670454623,Loretta Young,White,Straight,1948,The Farmer's Daughter,Best Actress,"Salt Lake City, Ut",6-Jan-13,Unrated,tt0039370,97 min,7.2
+548,670454624,Jane Wyman,White,Straight,1949,Johnny Belinda,Best Actress,"St. Joseph, Mo",5-Jan-17,Unrated,tt0040495,102 min,7.7
+549,670454625,Olivia de Havilland,White,Straight,1950,The Heiress,Best Actress,"Tokyo, Japan",1-Jul-16,Not Rated,tt0041452,115 min,8.1
+550,670454626,Judy Holliday,White,Straight,1951,Born Yesterday,Best Actress,New York City,21-Jun-21,Not Rated,tt0042276,103 min,7.6
+551,670454628,Shirley Booth,White,Straight,1953,"Come Back, Little Sheba",Best Actress,New York City,30-Aug-1898,Approved,tt0044509,99 min,7.5
+552,670454629,Audrey Hepburn,White,Straight,1954,Roman Holiday,Best Actress,"Brussels, Belgium",4-May-29,Not Rated,tt0046250,118 min,8.0
+553,670454630,Grace Kelly,White,Straight,1955,The Country Girl,Best Actress,"Philadelphia, Pa",12-Nov-29,Unrated,tt0046874,104 min,7.3
+554,670454631,Anna Magnani,White,Straight,1956,The Rose Tattoo,Best Actress,"Rome, Italy",7-Mar-08,Unrated,tt0048563,117 min,7.0
+555,670454632,Ingrid Bergman,White,Straight,1957,Anastasia,Best Actress,"Stockholm, Sweden",29-Aug-15,G,tt0118617,94 min,7.2
+556,670454633,Joanne Woodward,White,Straight,1958,The Three Faces of Eve,Best Actress,"Thomasville, Ga",27-Feb-30,Approved,tt0051077,91 min,7.2
+557,670454633,Joanne Woodward,White,Straight,1958,The Three Faces of Eve,Best Actress,"Thomasville, Ga",27-Feb-30,Approved,tt0051077,91 min,7.2
+558,670944822,Joanne Woodward,White,Straight,1958,The Three Faces of Eve,Best Actress,"Thomasville, Ga",27-Feb-30,Approved,tt0051077,91 min,7.2
+559,670944822,Joanne Woodward,White,Straight,1958,The Three Faces of Eve,Best Actress,"Thomasville, Ga",27-Feb-30,Approved,tt0051077,91 min,7.2
+560,670454634,Susan Hayward,White,Straight,1959,I Want To Live!,Best Actress,"Brooklyn, Ny",30-Jun-18,Approved,tt0051758,120 min,7.4
+561,670454635,Simone Signoret,White,Straight,1960,Room at the Top,Best Actress,"Wiesbaden, Germany",25-Mar-21,Not Rated,tt0053226,115 min,7.5
+562,670454636,Elizabeth Taylor,White,Straight,1961,Butterfield 8,Best Actress,"London, England",27-Feb-32,Not Rated,tt0053622,109 min,6.4
+563,670454637,Sophia Loren,White,Straight,1962,Two Women,Best Actress,"Pozzuoli, Italy",20-Sep-34,Not Rated,tt0054749,101 min,7.8
+564,670454638,Anne Bancroft,White,Straight,1963,The Miracle Worker,Best Actress,"Bronx, Ny",17-Sep-31,Not Rated,tt0056241,106 min,8.1
+565,670454638,Anne Bancroft,White,Straight,1963,The Miracle Worker,Best Actress,"Bronx, Ny",17-Sep-31,Not Rated,tt0056241,106 min,8.1
+566,670454717,Patty Duke,White,Straight,1963,The Miracle Worker,Best Supporting Actress,"Elmhurst, Ny",14-Dec-46,Not Rated,tt0056241,106 min,8.1
+567,670454717,Patty Duke,White,Straight,1963,The Miracle Worker,Best Supporting Actress,"Elmhurst, Ny",14-Dec-46,Not Rated,tt0056241,106 min,8.1
+568,670454640,Julie Andrews,White,Straight,1965,Mary Poppins,Best Actress,"Walton-on-Thames, Surrey, England",1-Oct-35,G,tt0058331,139 min,7.8
+569,670454641,Julie Christie,White,Straight,1966,Darling,Best Actress,"Chabua, Assam, India",14-Apr-41,TV-MA,tt0059084,128 min,7.1
+570,670454642,Elizabeth Taylor,White,Straight,1967,Who's Afraid of Virginia Woolf?,Best Actress,"London, England",27-Feb-32,Not Rated,tt0061184,131 min,8.0
+571,670454642,Elizabeth Taylor,White,Straight,1967,Who's Afraid of Virginia Woolf?,Best Actress,"London, England",27-Feb-32,Not Rated,tt0061184,131 min,8.0
+572,670454642,Elizabeth Taylor,White,Straight,1967,Who's Afraid of Virginia Woolf?,Best Actress,"London, England",27-Feb-32,Not Rated,tt0061184,131 min,8.0
+573,670454721,Sandy Dennis,White,Bisexual,1967,Who's Afraid of Virginia Woolf?,Best Supporting Actress,"Hastings, Ne",27-Apr-37,Not Rated,tt0061184,131 min,8.0
+574,670454721,Sandy Dennis,White,Bisexual,1967,Who's Afraid of Virginia Woolf?,Best Supporting Actress,"Hastings, Ne",27-Apr-37,Not Rated,tt0061184,131 min,8.0
+575,670454721,Sandy Dennis,White,Bisexual,1967,Who's Afraid of Virginia Woolf?,Best Supporting Actress,"Hastings, Ne",27-Apr-37,Not Rated,tt0061184,131 min,8.0
+576,670944920,Elizabeth Taylor,White,Straight,1967,Who's Afraid of Virginia Woolf?,Best Actress,"London, England",27-Feb-32,Not Rated,tt0061184,131 min,8.0
+577,670944920,Elizabeth Taylor,White,Straight,1967,Who's Afraid of Virginia Woolf?,Best Actress,"London, England",27-Feb-32,Not Rated,tt0061184,131 min,8.0
+578,670944920,Elizabeth Taylor,White,Straight,1967,Who's Afraid of Virginia Woolf?,Best Actress,"London, England",27-Feb-32,Not Rated,tt0061184,131 min,8.0
+579,670454643,Katharine Hepburn,White,Bisexual,1968,Guess Who's Coming to Dinner,Best Actress,"Hartford, Ct",12-May-07,Not Rated,tt0061735,108 min,7.8
+580,670454644,Barbra Streisand,White,Straight,1969,Funny Girl,Best Actress,"Brooklyn, Ny",24-Apr-42,G,tt0062994,151 min,7.4
+581,670454645,Katharine Hepburn,White,Bisexual,1969,The Lion in Winter,Best Actress,"Hartford, Ct",12-May-07,PG,tt0063227,134 min,7.9
+582,670454646,Maggie Smith,White,Straight,1970,The Prime of Miss Jean Brodie,Best Actress,"Ilford, Essex, England",28-Dec-34,M/PG,tt0064840,116 min,7.6
+583,670454646,Maggie Smith,White,Straight,1970,The Prime of Miss Jean Brodie,Best Actress,"Ilford, Essex, England",28-Dec-34,M/PG,tt0064840,116 min,7.6
+584,670946199,Maggie Smith,White,Straight,1970,The Prime of Miss Jean Brodie,Best Actress,"Ilford, Essex, England",28-Dec-34,M/PG,tt0064840,116 min,7.6
+585,670946199,Maggie Smith,White,Straight,1970,The Prime of Miss Jean Brodie,Best Actress,"Ilford, Essex, England",28-Dec-34,M/PG,tt0064840,116 min,7.6
+586,670454647,Glenda Jackson,White,Straight,1971,Women in Love,Best Actress,"Birkenhead, Cheshire, England",9-May-36,R,tt0066579,131 min,7.2
+587,670454648,Jane Fonda,White,Straight,1972,Klute,Best Actress,New York City,21-Dec-37,R,tt0067309,114 min,7.1
+588,670454650,Glenda Jackson,White,Straight,1974,A Touch of Class,Best Actress,"Birkenhead, Cheshire, England",9-May-36,PG,tt0070819,106 min,6.5
+589,670454651,Ellen Burstyn,White,Straight,1975,Alice Doesn't Live Here Anymore,Best Actress,"Detroit, Mi",7-Dec-32,PG,tt0071115,112 min,7.3
+590,670454656,Sally Field,White,Straight,1980,Norma Rae,Best Actress,"Pasadena, Ca",6-Nov-46,PG,tt0079638,114 min,7.3
+591,670454657,Sissy Spacek,White,Straight,1981,Coal Miner's Daughter,Best Actress,"Quitman, Tx",25-Dec-49,PG,tt0080549,124 min,7.5
+592,670454659,Meryl Streep,White,Straight,1983,Sophie's Choice,Best Actress,"Summit, Nj",22-Jun-49,R,tt0084707,150 min,7.6
+593,670454661,Sally Field,White,Straight,1985,Places in the Heart,Best Actress,"Pasadena, Ca",6-Nov-46,PG,tt0087921,111 min,7.4
+594,670454662,Geraldine Page,White,Straight,1986,The Trip to Bountiful,Best Actress,"Kirksville, Mo",22-Nov-24,PG,tt0090203,108 min,7.5
+595,670454663,Marlee Matlin,White,Straight,1987,Children of a Lesser God,Best Actress,"Morton Grove, Il",24-Aug-65,R,tt0090830,119 min,7.2
+596,670454664,Cher,White,Bisexual,1988,Moonstruck,Best Actress,"El Centro, Ca",20-May-46,PG,tt0093565,102 min,7.1
+597,670454664,Cher,White,Bisexual,1988,Moonstruck,Best Actress,"El Centro, Ca",20-May-46,PG,tt0093565,102 min,7.1
+598,670454742,Olympia Dukakis,White,Straight,1988,Moonstruck,Best Supporting Actress,"Lowell, Ma",20-Jun-31,PG,tt0093565,102 min,7.1
+599,670454742,Olympia Dukakis,White,Straight,1988,Moonstruck,Best Supporting Actress,"Lowell, Ma",20-Jun-31,PG,tt0093565,102 min,7.1
+600,670454665,Jodie Foster,White,Lesbian,1989,The Accused,Best Actress,"Los Angeles, Ca",19-Nov-62,R,tt0094608,111 min,7.1
+601,670454666,Jessica Tandy,White,Straight,1990,Driving Miss Daisy,Best Actress,"London, England",7-Jun-09,PG,tt0097239,99 min,7.3
+602,670454667,Kathy Bates,White,Straight,1991,Misery,Best Actress,"Memphis, Tn",28-Jun-48,R,tt0100157,107 min,7.8
+603,670454669,Emma Thompson,White,Straight,1993,Howards End,Best Actress,"London, England",15-Apr-59,PG,tt0104454,142 min,7.4
+604,670454670,Holly Hunter,White,Straight,1994,The Piano,Best Actress,"Conyers, Ga",20-Mar-58,R,tt0107822,121 min,7.6
+605,670454670,Holly Hunter,White,Straight,1994,The Piano,Best Actress,"Conyers, Ga",20-Mar-58,R,tt0107822,121 min,7.6
+606,670454748,Anna Paquin,White,Bisexual,1994,The Piano,Best Supporting Actress,"Winnipeg, Manitoba, Canada",24-Jul-82,R,tt0107822,121 min,7.6
+607,670454748,Anna Paquin,White,Bisexual,1994,The Piano,Best Supporting Actress,"Winnipeg, Manitoba, Canada",24-Jul-82,R,tt0107822,121 min,7.6
+608,670454671,Jessica Lange,White,Straight,1995,Blue Sky,Best Actress,"Cloquet, Mn",20-Apr-49,PG-13,tt0109306,101 min,6.4
+609,670454672,Susan Sarandon,White,Straight,1996,Dead Man Walking,Best Actress,"Queens, Ny",4-Oct-46,R,tt0112818,122 min,7.5
+610,670454673,Frances McDormand,White,Straight,1997,Fargo,Best Actress,"Chicago, Il",23-Jun-57,R,tt0116282,98 min,8.1
+611,670454674,Helen Hunt,White,Straight,1998,As Good As It Gets,Best Actress,"Culver City, Ca",15-Jun-63,PG-13,tt0119822,139 min,7.7
+612,670454675,Gwyneth Paltrow,White,Straight,1999,Shakespeare in Love,Best Actress,"Los Angeles, Ca",27-Sep-72,R,tt0138097,123 min,7.1
+613,670454675,Gwyneth Paltrow,White,Straight,1999,Shakespeare in Love,Best Actress,"Los Angeles, Ca",27-Sep-72,R,tt0138097,123 min,7.1
+614,670454675,Gwyneth Paltrow,White,Straight,1999,Shakespeare in Love,Best Actress,"Los Angeles, Ca",27-Sep-72,R,tt0138097,123 min,7.1
+615,670454753,Judi Dench,White,Straight,1999,Shakespeare in Love,Best Supporting Actress,"York, North Yorkshire, England",9-Dec-34,R,tt0138097,123 min,7.1
+616,670454753,Judi Dench,White,Straight,1999,Shakespeare in Love,Best Supporting Actress,"York, North Yorkshire, England",9-Dec-34,R,tt0138097,123 min,7.1
+617,670454753,Judi Dench,White,Straight,1999,Shakespeare in Love,Best Supporting Actress,"York, North Yorkshire, England",9-Dec-34,R,tt0138097,123 min,7.1
+618,670945693,Gwyneth Paltrow,White,Straight,1999,Shakespeare in Love,Best Actress,"Los Angeles, Ca",27-Sep-72,R,tt0138097,123 min,7.1
+619,670945693,Gwyneth Paltrow,White,Straight,1999,Shakespeare in Love,Best Actress,"Los Angeles, Ca",27-Sep-72,R,tt0138097,123 min,7.1
+620,670945693,Gwyneth Paltrow,White,Straight,1999,Shakespeare in Love,Best Actress,"Los Angeles, Ca",27-Sep-72,R,tt0138097,123 min,7.1
+621,670454676,Hilary Swank,White,Straight,2000,Boys Don't Cry,Best Actress,"Lincoln, Ne",30-Jul-74,R,tt0171804,118 min,7.5
+622,670454677,Julia Roberts,White,Straight,2001,Erin Brockovich,Best Actress,"Smyrna, Ga",28-Oct-67,R,tt0195685,131 min,7.3
+623,670454678,Halle Berry,Multiracial,Straight,2002,Monster's Ball,Best Actress,"Cleveland, Oh",14-Aug-66,R,tt0285742,111 min,7.0
+624,670454679,Nicole Kidman,White,Straight,2003,The Hours,Best Actress,"Honolulu, Hi",20-Jun-67,PG-13,tt0274558,110 min,7.5
+625,670454680,Charlize Theron,White,Straight,2004,Monster,Best Actress,"Benoni, South Africa",7-Aug-75,R,tt0340855,109 min,7.3
+626,670454682,Reese Witherspoon,White,Straight,2006,Walk the Line,Best Actress,"New Orleans, La",22-Mar-76,PG-13,tt0358273,136 min,7.8
+627,670454683,Helen Mirren,White,Straight,2007,The Queen,Best Actress,"Chiswick, London, England",26-Jul-45,PG-13,tt0436697,103 min,7.3
+628,670454684,Marion Cotillard,White,Straight,2008,The Passionate Life of Edith Piaf,Best Actress,"Paris, France",30-Sep-75,,,,
+629,670454685,Kate Winslet,White,Straight,2009,The Reader,Best Actress,"Reading, England",5-Oct-75,R,tt0976051,124 min,7.6
+630,670454686,Sandra Bullock,White,Straight,2010,The Blind Side,Best Actress,"Arlington, Va",26-Jul-64,PG-13,tt0878804,129 min,7.6
+631,670454687,Natalie Portman,White,Straight,2011,Black Swan,Best Actress,"Jerusalem, Israel",9-Jun-81,R,tt0947798,108 min,8.0
+632,670454688,Meryl Streep,White,Straight,2012,The Iron Lady,Best Actress,"Summit, Nj",22-Jun-49,PG-13,tt1007029,105 min,6.4
+633,670454689,Jennifer Lawrence,White,Na,2013,Silver Linings Playbook,Best Actress,"Louisville, Ky",15-Aug-90,R,tt1045658,122 min,7.7
+634,670454690,Cate Blanchett,White,Straight,2014,Blue Jasmine,Best Actress,"Melbourne, Victoria, Australia",14-May-69,PG-13,tt2334873,98 min,7.3
+635,670454691,Gale Sondergaard,White,Straight,1937,Anthony Adverse,Best Supporting Actress,"Litchfield, Mn",15-Feb-1899,Passed,tt0027300,141 min,6.3
+636,670454692,Alice Brady,White,Straight,1938,In Old Chicago,Best Supporting Actress,New York City,2-Nov-1892,Passed,tt0029047,95 min,6.8
+637,670454696,Mary Astor,White,Straight,1942,The Great Lie,Best Supporting Actress,"Quincy, Il",3-May-06,Approved,tt0033677,108 min,7.2
+638,670454696,Mary Astor,White,Straight,1942,The Great Lie,Best Supporting Actress,"Quincy, Il",3-May-06,Approved,tt0033677,108 min,7.2
+639,670944316,Mary Astor,White,Straight,1942,The Great Lie,Best Supporting Actress,"Quincy, Il",3-May-06,Approved,tt0033677,108 min,7.2
+640,670944316,Mary Astor,White,Straight,1942,The Great Lie,Best Supporting Actress,"Quincy, Il",3-May-06,Approved,tt0033677,108 min,7.2
+641,670454698,Katina Paxinou,White,Straight,1944,For Whom the Bell Tolls,Best Supporting Actress,"Athens, Greece",17-Dec-1900,Passed,tt0035896,170 min,6.9
+642,670454699,Ethel Barrymore,White,Straight,1945,None but the Lonely Heart,Best Supporting Actress,"Philadelphia, Pa",15-Aug-1879,Passed,tt0037135,113 min,6.5
+643,670454700,Anne Revere,White,Straight,1946,National Velvet,Best Supporting Actress,New York City,25-Jun-1903,Passed,tt0037120,123 min,7.3
+644,670454700,Anne Revere,White,Straight,1946,National Velvet,Best Supporting Actress,New York City,25-Jun-1903,Passed,tt0037120,123 min,7.3
+645,670944623,Anne Revere,White,Straight,1946,National Velvet,Best Supporting Actress,New York City,25-Jun-1903,Passed,tt0037120,123 min,7.3
+646,670944623,Anne Revere,White,Straight,1946,National Velvet,Best Supporting Actress,New York City,25-Jun-1903,Passed,tt0037120,123 min,7.3
+647,670454701,Anne Baxter,White,Straight,1947,The Razor's Edge,Best Supporting Actress,"Michigan City, In",7-May-23,Approved,tt0038873,145 min,7.4
+648,670454703,Claire Trevor,White,Straight,1949,Key Largo,Best Supporting Actress,New York City,8-Mar-10,Not Rated,tt0040506,100 min,7.8
+649,670454704,Mercedes McCambridge,White,Straight,1950,All the King's Men,Best Supporting Actress,"Joliet, Il",17-Mar-16,PG-13,tt0405676,128 min,6.2
+650,670454705,Josephine Hull,White,Straight,1951,Harvey,Best Supporting Actress,"Newtonville, Ma",3-Jan-1886,Approved,tt0042546,104 min,7.9
+651,670454707,Gloria Grahame,White,Straight,1953,The Bad and the Beautiful,Best Supporting Actress,"Los Angeles, Ca",28-Nov-23,Passed,tt0044391,118 min,7.8
+652,670454710,Jo Van Fleet,White,Straight,1956,East of Eden,Best Supporting Actress,"Oakland, Ca",30-Dec-14,PG,tt0048028,118 min,7.9
+653,670454711,Dorothy Malone,White,Straight,1957,Written on the Wind,Best Supporting Actress,"Chicago, Il",30-Jan-25,Not Rated,tt0049966,99 min,7.4
+654,670454714,Shelley Winters,White,Straight,1960,The Diary of Anne Frank,Best Supporting Actress,"St. Louis, Mo",18-Aug-20,Approved,tt0052738,180 min,7.4
+655,670454718,Margaret Rutherford,White,Straight,1964,the V.I.P.s,Best Supporting Actress,"London, England",11-May-1892,Not Rated,tt0057634,119 min,6.3
+656,670454719,Lila Kedrova,White,Straight,1965,Zorba the Greek,Best Supporting Actress,"St. Petersburg, Russia",9-Oct-18,Not Rated,tt0057831,142 min,7.7
+657,670454720,Shelley Winters,White,Straight,1966,A Patch of Blue,Best Supporting Actress,"St. Louis, Mo",18-Aug-20,Unrated,tt0059573,105 min,8.0
+658,670454722,Estelle Parsons,White,Straight,1968,Bonnie and Clyde,Best Supporting Actress,"Marblehead, Ma",20-Nov-27,R,tt0061418,111 min,7.8
+659,670454723,Ruth Gordon,White,Straight,1969,Rosemary's Baby,Best Supporting Actress,"Quincy, Ma",30-Oct-1896,Approved,tt0063522,137 min,8.0
+660,670454724,Goldie Hawn,White,Straight,1970,Cactus Flower,Best Supporting Actress,"Silver Spring, Md",21-Nov-45,M,tt0064117,104 min,7.2
+661,670454725,Helen Hayes,White,Straight,1971,Airport,Best Supporting Actress,"Washington, Dc",10-Oct-1900,G,tt0065377,137 min,6.6
+662,670454727,Eileen Heckart,White,Straight,1973,Butterflies Are Free,Best Supporting Actress,"Columbus, Oh",29-Mar-19,PG,tt0068326,109 min,7.2
+663,670454728,Tatum O'Neal,White,Straight,1974,Paper Moon,Best Supporting Actress,"Los Angeles, Ca",5-Nov-63,PG,tt0070510,102 min,8.1
+664,670454729,Ingrid Bergman,White,Straight,1975,Murder on the Orient Express,Best Supporting Actress,"Stockholm, Sweden",29-Aug-15,PG-13,tt3402236,114 min,6.5
+665,670454730,Lee Grant,White,Straight,1976,Shampoo,Best Supporting Actress,New York City,31-Oct-27,R,tt0073692,110 min,6.4
+666,670454730,Lee Grant,White,Straight,1976,Shampoo,Best Supporting Actress,New York City,31-Oct-27,R,tt0073692,110 min,6.4
+667,670944543,Lee Grant,White,Straight,1976,Shampoo,Best Supporting Actress,New York City,31-Oct-27,R,tt0073692,110 min,6.4
+668,670944543,Lee Grant,White,Straight,1976,Shampoo,Best Supporting Actress,New York City,31-Oct-27,R,tt0073692,110 min,6.4
+669,670454733,Maggie Smith,White,Straight,1979,California Suite,Best Supporting Actress,"Ilford, Essex, England",28-Dec-34,PG,tt0077289,103 min,6.2
+670,670454735,Mary Steenburgen,White,Straight,1981,Melvin and Howard,Best Supporting Actress,"Newport, Ar",8-Feb-53,R,tt0081150,95 min,6.8
+671,670454737,Jessica Lange,White,Straight,1983,Tootsie,Best Supporting Actress,"Cloquet, Mn",20-Apr-49,PG,tt0084805,116 min,7.4
+672,670454738,Linda Hunt,White,Na,1984,The Year of Living Dangerously,Best Supporting Actress,"Morristown, Nj",2-Apr-45,PG,tt0086617,115 min,7.1
+673,670454739,Peggy Ashcroft,White,Straight,1985,A Passage to India,Best Supporting Actress,"Croydon, Surrey, England",22-Dec-07,PG,tt0087892,164 min,7.3
+674,670454740,Anjelica Huston,White,Straight,1986,Prizzi's Honor,Best Supporting Actress,"Santa Monica, Ca",8-Jul-51,R,tt0089841,130 min,6.7
+675,670454743,Geena Davis,White,Straight,1989,The Accidental Tourist,Best Supporting Actress,"Wareham, Ma",21-Jan-56,PG,tt0094606,121 min,6.8
+676,670454745,Whoopi Goldberg,Black,Straight,1991,Ghost,Best Supporting Actress,New York City,13-Nov-55,PG-13,tt0099653,127 min,7.1
+677,670454746,Mercedes Ruehl,Hispanic,Straight,1992,The Fisher King,Best Supporting Actress,"Queens, Ny",28-Feb-48,R,tt0101889,137 min,7.5
+678,670454747,Marisa Tomei,White,Straight,1993,My Cousin Vinny,Best Supporting Actress,"Brooklyn, Ny",4-Dec-64,R,tt0104952,120 min,7.6
+679,670454749,Dianne Wiest,White,Straight,1995,Bullets Over Broadway,Best Supporting Actress,"Kansas City, Mo",28-Mar-48,R,tt0109348,98 min,7.4
+680,670454750,Mira Sorvino,White,Straight,1996,Mighty Aphrodite,Best Supporting Actress,"Tenafly, Nj",28-Sep-67,R,tt0113819,95 min,7.0
+681,670454752,Kim Basinger,White,Straight,1998,L.A. Confidential,Best Supporting Actress,"Athens, Ga",8-Dec-53,R,tt0119488,138 min,8.2
+682,670454754,Angelina Jolie,White,Bisexual,2000,"Girl, Interrupted",Best Supporting Actress,"Los Angeles, Ca",4-Jun-75,R,tt0172493,127 min,7.3
+683,670454754,Angelina Jolie,White,Bisexual,2000,"Girl, Interrupted",Best Supporting Actress,"Los Angeles, Ca",4-Jun-75,R,tt0172493,127 min,7.3
+684,670944478,Angelina Jolie,White,Bisexual,2000,"Girl, Interrupted",Best Supporting Actress,"Los Angeles, Ca",4-Jun-75,R,tt0172493,127 min,7.3
+685,670944478,Angelina Jolie,White,Bisexual,2000,"Girl, Interrupted",Best Supporting Actress,"Los Angeles, Ca",4-Jun-75,R,tt0172493,127 min,7.3
+686,670454755,Marcia Gay Harden,White,Straight,2001,Pollock,Best Supporting Actress,"La Jolla, Ca",14-Aug-59,R,tt0183659,122 min,7.0
+687,670454755,Marcia Gay Harden,White,Straight,2001,Pollock,Best Supporting Actress,"La Jolla, Ca",14-Aug-59,R,tt0183659,122 min,7.0
+688,670945895,Marcia Gay Harden,White,Straight,2001,Pollock,Best Supporting Actress,"La Jolla, Ca",14-Aug-59,R,tt0183659,122 min,7.0
+689,670945895,Marcia Gay Harden,White,Straight,2001,Pollock,Best Supporting Actress,"La Jolla, Ca",14-Aug-59,R,tt0183659,122 min,7.0
+690,670454757,Catherine Zeta-Jones,White,Straight,2003,Chicago,Best Supporting Actress,"Mumbles, Wales",25-Sep-69,PG-13,tt0299658,113 min,7.1
+691,670454758,RenÌ©e Zellweger,White,Straight,2004,Cold Mountain,Best Supporting Actress,"Katy, Tx",25-Apr-69,R,tt0159365,154 min,7.2
+692,670454759,Cate Blanchett,White,Straight,2005,The Aviator,Best Supporting Actress,"Melbourne, Victoria, Australia",14-May-69,PG-13,tt0338751,170 min,7.5
+693,670454760,Rachel Weisz,White,Straight,2006,The Constant Gardener,Best Supporting Actress,"London, England",7-Mar-71,R,tt0387131,129 min,7.4
+694,670454760,Rachel Weisz,White,Straight,2006,The Constant Gardener,Best Supporting Actress,"London, England",7-Mar-71,R,tt0387131,129 min,7.4
+695,670946276,Rachel Weisz,White,Straight,2006,The Constant Gardener,Best Supporting Actress,"London, England",7-Mar-71,R,tt0387131,129 min,7.4
+696,670946276,Rachel Weisz,White,Straight,2006,The Constant Gardener,Best Supporting Actress,"London, England",7-Mar-71,R,tt0387131,129 min,7.4
+697,670454761,Jennifer Hudson,Black,Straight,2007,Dreamgirls,Best Supporting Actress,"Chicago, Il",12-Sep-81,PG-13,tt0443489,130 min,6.5
+698,670454762,Tilda Swinton,White,Straight,2007,Michael Clayton,Best Supporting Actress,"London, England",5-Nov-60,R,tt0465538,119 min,7.2
+699,670454763,Penelope Cruz,Hispanic,Straight,2009,Vicky Cristina Barcelona,Best Supporting Actress,"Madrid, Spain",28-Apr-74,PG-13,tt0497465,96 min,7.1
+700,670454764,Mo'Nique,Black,Straight,2010,Precious,Best Supporting Actress,"Woodlawn, Md",11-Dec-67,R,tt0929632,110 min,7.3
+701,670454764,Mo'Nique,Black,Straight,2010,Precious,Best Supporting Actress,"Woodlawn, Md",11-Dec-67,R,tt0929632,110 min,7.3
+702,670945834,Mo'Nique,Black,Straight,2010,Precious,Best Supporting Actress,"Woodlawn, Md",11-Dec-67,R,tt0929632,110 min,7.3
+703,670945834,Mo'Nique,Black,Straight,2010,Precious,Best Supporting Actress,"Woodlawn, Md",11-Dec-67,R,tt0929632,110 min,7.3
+704,670454766,Octavia Spencer,Black,Na,2012,The Help,Best Supporting Actress,"Montgomery, Al",25-May-72,PG-13,tt1454029,146 min,8.0
+705,670454767,Anne Hathaway,White,Straight,2013,Les MisÌ©rables,Best Supporting Actress,"Brooklyn, Ny",12-Nov-82,,,,
+706,670454768,Lupita Nyong'o,Black,Na,2014,12 Years a Slave,Best Supporting Actress,"Mexico City, Mexico",1-Mar-83,R,tt2024544,134 min,8.1
